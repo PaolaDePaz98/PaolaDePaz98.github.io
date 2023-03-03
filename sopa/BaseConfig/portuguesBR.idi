@@ -1,0 +1,681 @@
+﻿&Arquivo
+Sai&r
+&Idioma
+&Sair do Ardora
+Abrindo aplicação...
+&Nova atividade
+&Painel com imagem
+Caça-Pala&vras
+&Construir palavras
+Nomear elementos em uma imagem
+Esta atividade permite:
+Criação
+Escolha a imagem
+Duplo-clique na imagem para definir os pontos
+Escreva o enunciado da atividade
+Resultado:
+Salve a atividade
+Publique a atividade
+A imagem atual será substituída por outra. Os pontos atuais serão eliminados.
+Palavra
+Tamanho máximo para a imagem é de [600 x 460] pixels
+Digite a palavra
+Cancelar
+Aceitar
+Excluir palavra
+Para excluir uma palavra, escolha a célula que contenha os dados
+Deseja excluir esta palavra?
+No painel com imagem, o aluno deverá relacionar os pontos identificados com a palavra correspondente
+Ajuda
+Propriedades
+Cores dos pontos:
+Contexto da solução
+Alunos e alunas:
+Publicar:
+Limite de tempo:
+Mostrar tentativas e acertos
+Colocar pontuação
+Modo de resolução: #Selecionar palavra#Escrever palavra (por cima do ponto)#Escrever palavra (indicando com uma seta)
+Destinatários: #Todos e todas#Apenas os alunos autorizados
+Permitir impressão
+&Utilidades
+&Configurar o Ardora
+Configuração inicial da aplicação.
+Idioma:#Galego#Castelhano#Catalão#Basco#Português PT#Inglês#Francês#Aragonês#Português BR#Ruso#Romeno#Asturiano#Italiano.
+Fechar
+Salvar
+Erro ao salvar o arquivo
+Atividade não foi salva
+Ao acabar o tempo: #Parar#Voltar ao início#Mostrar solução.
+Finalizar depois de...
+erros
+TENTATIVAS:
+ACERTOS:
+PONTOS:
+TEMPO:
+Branco#Azul#Amarelo#Preto#Rosa#Castanho#Roxo#Cinza#Verde
+Branco#Azul#Amarelo#Preto#Rosa#Castanho#Roxo#Cinza#Verde
+Salvar como...
+A atividade não foi salva. Deseja encerrar o Ardora sem salvar?
+Selecione uma imagem na guia de criação
+Autor:
+Tipo de publicação: #Publicação simples#Publicação em servidor.
+Características da janela no navegador:
+Título da janela:
+Inserir barra de navegação
+Linha separadora enunciado/atividade
+Ver
+A&brir
+A atividade não foi salva. Deseja abrir outra atividade sem salvar esta?
+Erro ao abrir a atividade
+Quebra-cabeça
+Abrir atividade
+Quebra-cabeça
+Criar um quebra-cabeça
+O aluno deverá trocar de posição as peças para formar a imagem correta.
+Sobre o quebra-cabeça
+Selecione o número de linhas e colunas
+Linhas:
+Colunas:
+A&juda
+&Ver ajuda
+&Contatar o autor
+Sobre...
+Fechar atividade
+O aluno deverá encontrar as palavras dispostas no caça-palavras
+Duplo-clique na tabela para inserir as palavras
+Caça-palavras
+Criar caça-palavras
+Palavra
+Definição
+A palavra deve ter no mínimo três letras
+A palavra não pode ter espaços em branco
+Escreva o enunciado para a atividade
+Modo de resolução: #Com a lista de palavras #Com definições das palavras #Sem nenhuma ajuda.
+&Unidades de medida
+&Real
+&Relógios
+Palavras-cruzadas
+Pirâmides
+&Jogos de palavras
+&Atividades com imagens
+&Cálculo
+P A L A V R A S:
+D E F I N I Ç Õ E S:
+Contar moedas
+Real - Contar moedas
+Representar, com moedas, quantias inferiores a 5 reais
+O aluno deverá escolher as moedas necessárias para a quantia indicada ou escrever a quantia
+Escolha a forma de gerar as quantias
+#Específicas#Aleatoriamente.
+Modo de resolução: #Selecionar moedas ou notas#Escrever a quantia.
+Correto
+MOEDAS
+Tentar novamente
+Informe, no mínimo, uma quantia maior que 0.
+Contar &notas
+Reais - Contar notas
+Representar, com notas, quantias inferiores a 880 reais
+O aluno deverá escolher as notas necessárias para a quantia assinalada ou escrever a quantia
+A quantia informada deve ser múltipla de 5 e igual ou inferior a 880
+NOTAS
+Relógios
+Acertar um relógio analógico e/ou digital com a hora indicada.
+O aluno deverá acertar um relógio analógico e/ou digital.
+Informe as horas e a sua escrita
+Modo de resolução: #Analógico #Digital #Analógico e digital.
+Salve e publique a atividade
+&Relacionar
+Relacionar pares de palavras
+Duplo-clique na tabela para adicionar
+Esquerda
+Direita
+Informe as duas palavras
+C&lassificar
+&Palavras
+Classificar palavras
+Agrupar palavras em 2 ou 3 conjuntos
+Informe os critérios de agrupamento
+Duplo-clique na tabela para adicionar
+Informer pelo menos os dois primeiros critérios de agrupamento
+Palavras
+Relacionar palavras
+Descobrir pares de palavras
+Escreva pares completos (na direita e na esquerda)
+Modo de resolução: #Unir com setas #Jogo de memória.
+&Completar
+Palavras com &sílabas
+Completar palavras
+Selecionar a sílaba correta para uma palavra
+Se ocorrer um erro... #Não mostrar nenhuma mensagem #Exibir mensagem.
+Correta
+Opç.
+Digite um hífem "-" na palavra, em vez da sílaba
+Deve inserir um hífem no lugar ocupado pela sílaba, na palavra
+Informe a sílaba correta e pelo menos uma opção possível.
+Aceitar
+&Imagens
+Classificar imagens
+Agrupar imagens em 2 ou 3 conjuntos
+Informer pelo menos os dois primeiros critérios para a classificação
+Imagens
+Dados da atividade
+Selecione as opções de tempo e aspecto
+Escolha o modo de solução da atividade
+Salvar atividade
+Salvar como...
+Publicar atividade
+Ver atividade
+Tamanho máximo para a imagem é de[600 x 150] pixels.
+Critério de classificação
+Selecione o critério e/ou a imagem da palavra
+&Esquemas
+Esquemas
+Montar esquemas com até quatro níveis de profundidade
+Nº ordem
+Conceito
+Nº ordem
+Conceito
+Informe os conceitos do esquema
+Utilize apenas números separados por pontos, por exemplo, 1 para o primeiro nível e 1.1 para o primeiro subnível.
+Insira o número de ordem e/ou o conceito.
+Já existe um conceito com o número de ordem que acaba de inserir.
+Não existe um número de ordem anterior, do qual este conceito possa depender.
+Tamanho da fonte
+Mostrar diretamente a solução
+Tangram
+Tangram
+Criar figuras diferentes com as peças do tangram
+Duplo-clique na grade (posicionar peças)
+Com linhas no modelo
+Com guias de solução.
+Modo de resolução: #Figuras livres #Criar um modelo.
+Atividades com sons
+Distinguir sons
+Auto-ditados
+Distinguir sons
+Reconhecer a grafia do som escutado
+Relacionar som-imagem(s)
+&Ferramentas
+Gravador de som
+Caça-palavras
+Resolver caça-palavras
+Linhas:
+Colunas:
+Informe o nº de linhas e colunas
+Preencha o caça-palavras >>>
+Duplo-clique na tabela para definições
+Direção da escrita
+Horizontais
+Verticais
+&Colorir
+Colorir
+Colorir uma imagem
+Modo de resolução: #Colorir #Colorir com legenda.
+Informe a legenda e a cor
+Quebra-cabeça numérico
+Quebra-cabeça numérico de operações
+Escolher operações matemáticas completas
+Operação
+Informe as operações
+Operação
+A cobra dos números
+A cobra dos números
+Encontrar resultados de contas
+Iniciar
+Escolha opções e número de "vidas".
+Nº de vidas
+Vidas
+Ardora criou os arquivos:
+execute este último para acessar a atividade.
+Lembre-se que ambos os arquivos devem estar na mesma pasta.
+Duplo-clique na tabela para adicionar
+Deseja realmente fechar o arquivo?
+Tamanho máximo para a imagem é de[100 x 100] pixels.
+Informar a palavra correta e, pelo menos, uma alternativa.
+Palavra
+Arquivo de som
+Arquivo de imagem
+Palavra
+Arquivo de imagem
+Palavra
+Arquivo de imagem
+Palavra
+Arquivo de imagem
+1ª alternativa
+2ª alternativa
+3ª alternativa
+Deseja excluir?
+Escolha o modo
+Modo de resolução: #Texto #Imagem #Texto + imagem.
+Pelo menos uma das palavras não tem uma imagem associada, é impossível trocar modo.
+Selecione um arquivo de som.
+Auto-ditados
+Escrever os sons ouvidos
+Escolha o arquivo de som e escreva o texto correto
+Texto correto
+&Ordenar
+&Frases
+Ordenar
+Ordenar as palavras de uma frase ou série
+Duplo-clique para inserir dados
+Frases / Séries
+Pista / Pergunta
+Modo de resolução: #Sem ajuda#Marcando as palavras mal colocadas.
+Informar a frase/série a ordenar (pergunta/pista - opcional)
+Tamanho máximo para a imagem é de[175 x 175] pixels.
+Textos com palavras (selecionado)
+Completar
+Completar um texto com palavras de uma lista para selecionar
+Texto
+Modo de resolução: #Indicar as alternativas para cada palavra #Toda palavras é alternativa.
+Alternativas
+Escreva entre caracteres "$" a palavra que deseja ocultar
+Não há um número par de "$" para determinar as palavras que pretende ocultar. Ex.: O morango é $vermelho$. (Oculta-se "vermelho").
+Deseja realmente eliminar todo o texto e as variantes informadas?
+Mensagens
+Página Web
+Congratulação
+L. Tempo
+L. Tentativas
+Bônus por acerto
+3 - Página Web
+1 - Atividade
+2 - Opções de execução
+Selecione o aspecto da página Web que contém a atividade
+Fonte
+Tamanho
+Negrito
+Itálico
+Posição da atividade: #Esquerda #Centralizada #Direita.
+Posição do enunciado: #Esquerda #Centralizado #Direita #Justificado.
+Linha separadora atividade/autor
+Textos com palavras (escrevendo)
+Completar um texto escrevendo as palavras.
+Soluções também válidas
+Aspecto da ajuda
+Tamanho Fonte
+Aspecto da atividade
+Tamanho Fonte
+Teste
+Teste
+Criar teste de resposta indicada
+Pergunta
+Corretas
+Incorretas
+Mensagem de erro
+Ordem das repostas: #Ordenadas #Aleatoriamente.
+Pergunta
+Resposta
+Msg. Erro
+Mensagens
+Salvar
+Salvar como
+Parágrafos
+Ordenar parágrafos
+Ordenar parágrafos/frases para que tenham sentido
+Ordene os parágrafos/frases corretamente
+Cores
+Fundo
+Seleção
+Botões
+Fonte
+Resumo da atividade
+Imagens
+Ordenar imagens
+Ordenar uma sequência de imagens
+Tamanho máximo para a imagem é de [150 x 150] pixels.
+Exibir resumo da atividade
+Frases
+Relacionar frases
+Equiparar frases ou expressões atendendo a um critério
+Especificar tanto a frase da esquerda como a da direita ou deixá-las em branco
+Aspecto das mensagens
+Ardora ainda não está traduzido para esta língua, se desejar traduzí-lo para esta ou outra qualquer (é muito simples) basta entrar em contato com o autor através do email contacto@webardora.net
+Imagem - Frase
+Relacionar imagem - frase
+Equiparar imagem com uma frase ou parágrafo
+Tamanho máximo para a imagem é de [200 x 200] pixels.
+Especifique a imagem e a frase ou deixe-as em branco.
+Colorir com legenda
+Colorir com legenda
+Colorir uma imagem de acordo com a legenda
+Texto na legenda
+Texto na imagem
+Cor
+Escolha a cor nas legendas anteriores e clique sobre a imagem
+Colocar legenda na imagem
+Escolha a legenda que aparecerá na imagem # Igual à da legenda principal # Outra.
+Tamanho da fonte na imagem
+Excluir a última cor atribuída
+Não há cor para selecionar, dê duplo-clique na tabela de legendas para adicionar/modificar a cor/legenda
+Primeiro deve carregar uma imagem clicando no botão do ponto 1.
+Há legendas intermédias sem definição de cor. Pode definir de 1 a 10 legendas e cores, mas não pode deixar espaços "sem cor" entre as definidas
+Esta região já tem uma cor atribuída. Deve excluí-la e atribuir nova cor.
+Imagem - Imagem
+Relacionar Imagem - Imagem
+Equiparar imagens que tenham relação
+Especifique na esquerda e na direita cada um dos pares de imagens que formam a atividade
+Simetrias, translações e rotações
+Simetrias, translações e rotações simples
+Com base em um desenho simples deverá realizar-se a simetria, translação ou rotação
+Tipo: #Simetria #Translação (Cópia) #Rotação.
+Verificar solução: #Manualmente #Automaticamente.
+Ver atividade
+Publicar atividade
+Geoplano
+Geoplanos
+Selecione os diferentes parâmetros da atividade
+Realizar várias atividades sobre geometria
+Tipo de geoplano #Quadrado #Triangular.
+Tipo de atividade #Livre #Condicionada.
+Geometria
+Mostrar:
+Nº de lados
+Nº de vértices
+Perímetro
+Área
+Colorir superfície
+Etiqueta
+Unidades
+Condições:
+Nº de lados =
+Perímetro =
+Área =
+NOTA: Ardora não faz nenhuma verificação prévia no sentido de garantir que exista um polígono que cumpra as condições informadas.
+Colocar o Nº de vértices
+Botão Começar
+Utilize apenas números e o ponto para os decimais (máximo 2)
+Figura regular =
+----------#Triângulo equilátero#Triângulo isósceles#Triângulo escaleno#Triângulo acutângulo#Triângulo retângulo#Triângulo obtusângulo#Quadrado#Retângulo#Rombóide#Rombo#Trapézio.
+Ao acabar o tempo: #Parar#Voltar ao início.
+Ardora detectou uma janela aberta no [I.E] e por isso a fechou. Lembre-se que para ver as alterações em uma atividade, todas as janelas do navegador devem estar fechadas.
+Tamanho do caça-palavras
+Tamanho da atividade
+Destino
+Nova janela#Mesma janela#Janela ascendente.
+Nova janela#Mesma janela#Janela ascendente.
+Escreva a mensagem de parabéns que deverá ser mostrada quando a atividade for resolvida corretamente na sua totalidade. Pode deixá-la em branco e/ou informar na URL o endereço do arquivo a mostrar.
+Se o arquivo HTML, PDF, etc. que for utilizar, estiver num sítio da Internet diferente do que hospeda a atividade, inicie por "http://". Nos demais casos, escreva apenas o caminho do arquivo.
+AVISO: Se escrever o caminho de um arquivo e não funcionar corretamente em "ver atividade" (botão olho), publique a atividade e abra o arquivo htm criado para confirmar.
+Escreva a mensagem que deverá aparecer nos casos em que a atividade tem um limite de tempo para ser realizada e este se esgote antes de ser dada a resposta correta.
+Nova janela#Mesma janela#Janela ascendente.
+Nova janela#Mesma janela#Janela ascendente.
+Escreva a mensagem que aparecerá nos casos em que seja excedido o número máximo de tentativas sem sucesso.
+Informe a mensagem que deverá aparecer quando ocorra uma resposta incorreta.
+Ignorar maiúsculas/minúsculas.
+Criar atividade compatível com SCORM 1.2
+Se a atividade for realizada corretamente: #Pode voltar a fazê-la #Não pode voltar a fazê-la.
+Localização dentro do curso
+Pontuação:
+Se a atividade for realizada corretamente: #Pode voltar a fazê-la #Não pode voltar a fazê-la.
+Por cada resposta correta
+Por cada resposta incorreta
+Dimensão da área de texto
+Criar um pacote SCORM 1.2 para ser importado em sistemas LMS
+Título do Curso
+1- Curso
+2- Contendores
+3- Atividades
+4- Criar pacote SCORM
+Identificador (comece com uma letra)
+Versão
+Descrição
+Palavra-chave
+Especifique o nome e o identificador do curso
+Deve especificar pelo menos um contentor
+Deve incluir título, identificador e os arquivos em que está incluída a atividade
+Identificador como objetivo
+# Mantém-se a pontuação conseguida # Atribui-se como pontuação ...
+# Mantém-se a pontuação conseguida # Zerar a pontuação.
+Acaba de criar uma atividade compatível com SCORM 1.2, para que esta atividade possa ser incorporada num LMS (Moodle,  Dokeos) deve ir a Utilidades-SCORM e criar um pacote.
+Atividade
+Jogo de memória
+Descobrir pares de palavras/imagens
+Atrazo entre tentativas
+Permitir teclado
+Álbum
+Método de solução: #Colocar texto #Colocar imagem #Escrever texto #Colocar texto e imagem em ordem.
+Especifique um nome e uma imagem para a linha:
+Relacionar palavra - imagem, identificar imagens, ordenar imagens
+&Forca
+Jogo da forca
+Método de solução: #Tradicional #Ordenando letras da palavra.
+Pacote de atividades Ardora
+Criar um sistema de navegação entre atividades
+1- Escolha as atividades
+2- Informe dados gerais
+3- Crie o pacote
+Título
+Rodapé
+Menu principal
+Informe os dados
+Sub-menu
+Criar 1ª página com link de todas as atividades
+Nº
+Arquivo
+Link Ativ.
+Sig/Ant
+Av. Aut.
+Marcar Todos
+Especifique pelo menos uma descrição e um arquivo da atividade
+Texto da primera página índice
+Título das páginas
+Link
+Há um link que não tem URL ou uma URL que não tem link.
+Cabeçalho
+Subtítulo
+Centralizar a janela da atividade
+Tamanho da janela: #800x600 #1024x768.
+Primeras letras para o nome dos arquivos
+Tema
+Criar pacote de atividades Ardora
+Cabeçalho para os links demais atividades.
+Colocar botão para fechar as atividades
+Função do botão fechar #Fechar a janela #Carregar.
+Rótulo do botão ajuda
+Rótulo do botão fechar
+Selecione a pasta aonde será criado o pacote (Destino)
+Auto - ajustar largura das actividades
+M.P.
+M.L.
+Selecionar
+Palavras de um parágrafo
+Especifique a característica das palavras do grupo
+Digite um texto ou uma frase.
+não está no texto, informe uma que conhecida exatamente com uma do texto
+já está escrita, pelo menos duas vezes, apague uma delas.
+Palavras. O texto digitado tem 100 ou mais palavras, apague algumas e tente novamente.
+Damero
+Descobrir um texto oculto mediante definições de palavras
+Destacar letras erradas
+Sim, está certo...#parágrafo e definições são corretas #parágrafo está certo
+Esta atividade não utiliza acentos.
+Palavra-cruzada com números
+Criar Palavra-cruzada com operações matemáticas
+Resultados
+Números
+Operações
+#Ocultar números #Ocultar operações #Selecionar célula oculta.
+Célula oculta
+NÃO é possível dividir com as quantidades atuais (divisão por zero).Altere primeiro divisor,tente novamente.
+Colunas corrediças.
+Ordenar um texto movendo linhas e colunas de uma grade.
+#Mover linhas #Mover colunas #Mover linhas e colunas.
+Tabelas
+Completar as céluas de uma tabela
+Conteúdo da célula: #Texto #Marcar #Selecionar.
+Primera célula
+Pontos de uma imagem
+Clique no gráfico para delimitar a área.
+Duplo-clique no gráfico para "fechar" a área.
+Palavra no gráfico
+Agrupar com
+NÃO é possível remover a área: Existem outra(s) áreas agrupadas a esta.
+Desenhar área ao acertar
+Palavra para corrigir
+Editar unicamente as palavras assinaladas
+Se apenas marcar a publicação das palavras, não coloque como corretas, para a mesma, duas ou mais palavras. Corrigir linha:
+Mostrar botão "próximo"
+Gráficos estatísticos
+Linhas e barras
+Eixo X
+Eixo Y
+Itens
+Tipo de gráfico: #Linhas #Barras.
+Tipo de atividade: #Corrigido#Livre #Ocultar dados #Ajustar gráfico #Ajustar dados e gráfico.
+Iniciar em:
+Nº de divisiões:
+Mostrar dados no gráfico
+Ver tabela de dados
+este valor não corresponde com os valores determinados para o eixo Y, digite novamente.
+Circulares
+Os valores informados não ficarão legíveis na tela. Diminua os valores e aumente o passo.
+Ver tabela de %
+Valor
+Textos com palavras (arrastrando)
+Tempo de espera nas mensagens
+1 - 1
+Vários - Vários
+# Escrever dados # Mesclar células.
+Colocação inicial: #Aleatória #Corrigido, igual ao desenho.
+Contando dinheiro
+Escolha a moeda e o número de unidades que serão contadas.
+#Moedas #Notas.
+Mostrar / Escrever: #Quantidade total (ex: R$ 4,05) #Unidades e decimais (ex: R$ 4 e 0,05 centavos) #Os dois#Nenhum (Só para livre)
+Aceitar como resposta correta: #Qualquer válida #Utilizando o menor número de moedas e/ou notas.
+Método de solução: #Seleccionando as moedas ou notas#Escrevendo a quantidade#Livre.
+Mostrar moedas e/ou notas: #Ordenadas da maior para a menor #Aleatoriamente.
+pixels
+Introduzca nombre del apartado y su identificador (debe de empezar por letra)
+Seleccione apartado (contenedor):
+Introduzca nombre de la actividad, su identificador (debe de empezar por letra) y especifique los archivos que la forman
+Nova página multimídia
+Galeria de imagens
+1.- Conteúdo
+2.- Página web
+Tamanho das miniaturas
+Tamanho das  imagens
+Clique com o botão direito e "pegue" o código.
+Miniatura
+Amplo
+Área visível:
+Imagem
+Texte e imagems
+Tamanho pág.
+Reprodutor de...
+Imagem
+Arquivo de vídeo
+Panorama interativo
+Clicar para abrir... #URL #Imagem #Atividades Ardora #Multimídia Ardora#Pacote de atividades Ardora #html, pdf, jpg ...#Servidor Ardora.
+Posição
+amplo
+alto
+Posição inicial
+Diminuir velocidade
+Etiqueta deve ter um valor (obrigatório)
+Histograma
+Intervalo entre meses
+Intervalo entre valores
+Elementos móveis
+Barras / Sanfonas
+Tipo:  #Barras horizontais #Barras verticais #Sanfona.
+Espaços Web
+Menu destacável
+Janelas
+Destino: #Janela nova #Pop-up #Mesma janela #Janela de diálogo.
+Estrutura da página
+Aparência
+autoajustar
+Espaço central
+Menu gráfico
+#Linear #Destacável.
+Personalizado
+Modelo
+Copiar dados deste tema
+Conteúdo inicial
+Sons
+Nova página no servidor
+Gerenciar usuários
+Anotaçoões coletivas
+Álbum de grupo
+Bate-papo
+Voto
+Procesador de textos
+Nome ompleto
+Coordenador(a)
+Nome do usuário
+Senha
+Usuário já existente, por favor, digite outro.
+Professores
+Curso
+Grupo
+Usuário/senha inválido(s)
+Comentario
+Data
+Caminho para o servidor local
+Nome da pasta recipente
+Margem
+Oredenar por: #Palavra principal #Data #Autor
+Máximo
+Lousa
+Linha do tempo
+Sistema de comentários
+Privado
+Gerenciador de arquivos
+Compartilhado
+Diretório
+Pasta
+Informaçao
+Rec. Aut.
+Avaliação automática
+Execuções
+Estado
+Início
+Fim
+Poster
+Único
+Workspace
+Excluir
+Desenhar
+Atualizar
+Livro
+Página
+Em branco
+Frente
+Substituir
+Nome errado
+Afirmaçao
+Aumentar
+Forma
+Área de texto
+Editável
+Usuário
+Total
+Biblioteca
+Notas
+Sala de aula
+To view this content you need to specify in the Utilities menu-Setting a path to a server. See the program's help.
+The elements in this image lack an identifier. Please,  open it with Inkscape, save it with another name and try again.
+Action name
+Enter action
+Ação
+Elemento
+Excluir
+Movimento
+Letras
+Play only
+Adicionar
+Labirinto
+Você realmente deseja adicionar todas as atividades contidas
+Calculadora
+Pentomino
+Activar
+Mova
+Ir para a primeira atividade não resolvida.
+Gravação
+Gravador
+Gravura
+Carregando arquivos
+Configurando
+Mortos e feridos

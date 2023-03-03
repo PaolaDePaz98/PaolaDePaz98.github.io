@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--ArdoraPaquete-->
+<!--Created by Ardora - www.webardora.net-->
+*A00*<<html lang="A00">
+<head><meta charset="utf-8"/>
+*A01*<title>A01</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+*A02*<link href="A02" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="js/ardoraPaquete.js"></script>
+</head>
+<body onload="MM_preloadImages('images/axu1.jpg','images/fora1.jpg','images/seg1.jpg','images/ant1.jpg')">
+
+	<div id="contenedor">
+		
+		<div id="cabecera">
+*A03*			<h3> <a href="A031" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/axu1.jpg',1)"><img src="images/axu0.jpg" alt="A032" name="Image1" width="35" height="35" border="0" id="Image1" /></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/fora1.jpg',1)"><img src="images/fora0.jpg" name="Image2" width="35" height="35" border="0" id="Image2" /></a></h3>
+*A06*			<h1>A06</h1>
+*A05*			<h2>A05 </h2>
+			<h4 id="menuPrincipal">
+*A07*				<a href="A071" target="A072" accesskey="A073">A074</a>
+			</h4>
+	  </div>
+*A08*		
+		<div id="menu">
+
+*A09*			<h1> A09</h1>
+*A10*				<a class="lista" href="A101"target="A102">A103</a>
+*A11*			<h1>A11</h1>
+*A12*				<a href="A121" title="A122">A123 </a>
+*B11*		
+
+		</div>
+*B08*		
+
+		<div id="areaContido">
+*A21*			<h1>A21</h1>
+*A22*		  	<h2>A22</h2>
+		     <table width="100%" border="0">
+                      <tr>
+*A23*	               <td width="50%"><p><a href="A231"><strong>A232</strong></a></p></td>
+                      </tr>
+		      </table>
+		</div>
+		<div id="pie">
+*A24*			<p>A24</p>
+	       </div>
+	</div>
+
+</body>
+</html>

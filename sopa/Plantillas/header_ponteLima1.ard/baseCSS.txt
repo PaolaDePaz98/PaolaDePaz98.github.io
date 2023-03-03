@@ -1,0 +1,136 @@
+/*
+Created by Ardora
+http://www.webardora.net
+*/
+body{
+	*FFA
+	*BAC=fondoTotal.gif
+	*BACPos=top
+	*BACRep=repeat-x
+	*BACCol=#F9F9F7 
+	color: #8C8C73;
+}
+#contenedor{	
+	background-color:#FFFFFF;
+	border-color:#8C8C73;
+	border-width:thin;
+	border-style:solid;
+}
+#tiraMenu{
+	height:20px;
+	padding-top:5px;
+	border-bottom-style:groove;
+	background-color:#615C24;
+	font-size:16px;
+	font-weight:bold;
+}
+#menuPrincipal{
+	height:20px;
+	padding-top:5px;
+	border-bottom-style:groove;
+	background-color:#615C24;
+	font-size:16px;
+	font-weight:bold;
+}
+#menuPrincipal a{
+	margin-left: 5px;
+	padding-right:10px;
+	color:#FFFFFF;
+	text-transform:uppercase;
+	text-decoration:none;
+	border-left-width:thin;
+	border-right-style:ridge;
+	border-right-color:#FF9900;
+}
+#menuPrincipal a:hover{color:#FF9900;}
+#cabecera{
+	border-bottom-style:groove;
+	background:url(images/header.jpg) no-repeat right top;
+	padding:0px;
+}
+#cabecera h1{
+	margin-left:5px;
+	font-size:28px;
+	padding:0px;
+	color:#000000;
+	margin-top:0px;
+	margin-bottom:0px;
+	*SHT
+}
+#cabecera h2{
+	padding:0px;
+	font-size:16px;
+	margin-left:5px;
+	margin-top:0px;
+}
+#menu{
+	margin-left:5px;
+	float:left;
+	width:15%;
+	display:block;
+}
+#menu a{
+	font-size:14px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:#5B5B39;
+	text-decoration:none;
+}
+#menu a:hover{color:#FF9900;}
+#menu h1{
+	font-size:14px;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:0px;
+	border-bottom-color:#FF9900;
+	border-bottom-style:solid;
+	border-width:1px;
+	color:#000000;
+	*SHT
+}
+#areaContido{
+	border-width:1px;
+	border-left-style:dashed;
+	float:right;
+	width:83%;
+}
+#areaContido a{
+	font-size:12px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:#5B5B39;
+	text-decoration:none;
+}
+#areaContido a:hover{
+	color:#FF9900;
+}
+#areaContido h1{
+	font-size:14px;
+	margin-left:5px;
+	margin-bottom:0px;
+	color:#000000;
+}
+#areaContido h2{
+	font-size:12px;
+	margin-left:5px;
+	font-weight:100;
+	text-align:justify;
+	margin:0px;
+	visibility:hidden;
+}
+#areaContido h3{
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:12px;
+	margin-left:5px;
+	font-weight:100;
+	text-align:justify;
+	margin-right:5px;
+}
+.lista{display:list-item; list-style:none;}
+#pie{border-top-style:groove;clear:both;font-size:10px;}
+#pie p{color:#000000;}
+object{overflow:hidden;}
+#areaMedia{top:140px;}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--ArdoraPaquete-->
+<!--Created by Ardora - www.webardora.net-->
+<head><meta charset="utf-8"/>
+*A01*<title>A01</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+*A02*<link href="A02" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body onload="MM_preloadImages('images/axu1.jpg','images/fora1.jpg','images/seg1.jpg','images/ant1.jpg')">
+	<div id="contenedor">
+		<div id="cabecera">
+			<h3> 
+*A03*			<a href="A031" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/axu1.jpg',1)"><img src="images/axu0.jpg" alt="A032" name="Image1" width="35" height="35" border="0" id="Image1" /></a>
+*A04*			<a href="A041" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/fora1.jpg',1)"><img src="images/fora0.jpg" alt="A042" name="Image2" width="35" height="35" border="0" id="Image2" /></a>
+			</h3>
+*A06*			<h1>A06</h1>
+*A05*			<h2>A05 </h2>
+			<h4 id="menuPrincipal">
+*A07*				<a href="A071" target="A072" accesskey="A073">A074</a>
+			</h4>
+	  </div>
+*A08*		
+		<div id="content"><div id="menu">
+*A09*			<h1> A09</h1>
+*A10*				<a class="lista" href="A101"target="A102">A103</a>
+*B09*
+
+*A11*			<h1>A11</h1>
+*A12*				<a href="A121" title="A122">A123 </a>
+*B11*		
+
+		</div>
+*B08*		
+
+		<div id="areaContido">
+*A13*			<h1> A13 </h1>
+*A15*			<h2> A15 </h2>
+			<div id="areaApplet">
+*A16*				<h3>A16</h3>
+			</div>
+		</div></div>
+		<div id="pie">
+		   <table width="100%" border="0">
+              	   <tr>
+*A17*                <td width="4%"><a href="A171" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/ant1.jpg',1)"><img src="images/ant0.jpg" alt="A172" name="Image4"  border="0" id="Image4" /></a></td>
+*A18*                <td width="92%"><p align="center">A182</p><!--"A181"--></td>
+*A19*                <td width="4%"><a href="A191" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/seg1.jpg',1)"><img src="images/seg0.jpg" alt="A192" name="Image3" border="0" id="Image3" /></a></td>
+                   </tr>
+                   </table>
+	       </div>
+	</div>
+
+</body>
+</html>

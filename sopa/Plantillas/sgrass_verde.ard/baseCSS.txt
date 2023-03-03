@@ -1,0 +1,97 @@
+/* A R D O R A - http://www.webardora.net */
+body {
+	*FFA
+	*BAC=fondo1024.jpg
+	*BACPos=top
+	*BACRep=repeat-y
+	*BACCol=#eee 
+	background-position:50%;
+	font-size: 11px;margin: 0;padding: 0;
+}
+#menuPrincipal{
+	width: 926px;
+	margin: 0px auto;
+	background-color:#006600;
+	border-bottom: 1px solid #FFFFFF;
+}
+#menuPrincipal ul {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#menuPrincipal ul li {
+	display: inline;
+	margin-left: -3px;
+}
+#menuPrincipal ul li a {
+	padding: 5px 10px 5px 10px;
+	color: white;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+#menuPrincipal ul li a:hover {background-color: #003300;color: white;}
+#header {
+	width: 926px;
+	color:#FFFFFF;
+	font-size: 300%;
+	background-color: #006600;
+	height: 40px;
+	border-bottom: 5px solid #222;
+	line-height: 40px;
+	font-weight: normal;
+	margin: 0 auto;
+	letter-spacing: 3px;
+	text-align: center;
+}
+#subtit {
+	margin: 0px auto;
+	width: 926px;
+	height:40px;
+}
+#subtit h2{text-indent:5px;}
+#content{margin: 0px auto;width: 926px;}
+#areaContido {
+	margin-right:5px;
+	float:left;
+	width: 775px;
+	text-align: justify;
+	border-bottom: 1px dotted #ccc;
+}
+#areaContido h2 {
+	text-indent:5px;font-weight: normal;font-size: 155%;
+	color: #222;
+	border-bottom: 1px dotted #ccc;
+	margin-bottom: 5px;padding-bottom: 2px;
+}
+#areaContido p {text-indent:5px;text-align:justify;}
+#areaContido a:link, #menu_side a:visited{color:#006600;}
+#areaContido li {padding: 0px 0px 0px 0px;margin-top:3px;}
+#menu {float: right;color: #999;width: 140px;}
+#menu h3 {font-weight: normal;font-size: 150%;color: #777;margin-bottom: 5px;}
+#menu a:link, #menu a:visited{color:#006600;text-decoration:none;}
+#menu a:hover{color: #003300; border-bottom-style:dotted; border-bottom-width:1px; border-bottom-color:#006600;}
+#menu li {  
+	padding: 0;margin-top:3px;
+	list-style-position:inside;list-style-type:square;
+}
+#menu table li{list-style-type:none;}
+#footer {
+	margin: 0 auto;
+	padding: 0;
+	color: #fff;
+	background: #333 url(images/footer.gif);
+	width: 926px;
+	height:40px;
+	clear: both;
+	text-align: center;
+}
+#footer p { padding: 0; }
+#footer a {color: #888;text-decoration: none;}
+#footer a:hover {color: #ccc;}
+p.info {padding: 5px 0px 5px 0px;font-size: 10px;color: #aaa;}
+.hide { display: none; }
+li {color::#006600;}
+#enunciadoAct{ text-align:justify; padding-left:10px; padding-right:10px;}

@@ -1,0 +1,118 @@
+body{
+	*FFA
+	*BAC=cuadricula.gif
+	*BACPos=center
+	*BACRep=repeat
+	*BACCol=#FFFFFF 
+	margin:10px;
+}
+#contenedor{
+	border-right: solid 1px #000000;
+	border-left: solid 1px #5C863E;
+}
+#menuPrincipal{
+	height:28px;
+	font-size:14px;
+	font-weight:bold;
+	display:inline;
+	width:75%;
+}
+#menuPrincipal a {
+	display: block;
+	float: left;
+	width: 142px;
+	height: 21px;
+	padding: 7px 1px 0 1px;
+	background: url(images/img3.gif) no-repeat center center;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	font-size: x-small;
+	font-weight: bold;
+	color: #CCCCCC;
+}
+#menuPrincipal a:hover{
+	background-image:url(images/img4.gif);
+	color:#FFFFFF;
+}
+#botones{
+	width:21%;
+	float:right;
+	margin:0px;
+	padding-right:5px;
+}
+#cabecera{
+	height:90px;
+	background: url(images/cabece.jpg) no-repeat left top;
+	background-color:#000000;
+	margin-top:0px;
+	padding-left:10px;
+	border-top: solid 1px #000000;
+	clear:both;
+	*SHA
+}	
+	
+#cabecera h1{
+	font-size:36px;
+	left: 19px;
+}
+#cabecera h2{
+	position: absolute;
+	display: inline;
+	font-size:18px;
+	top: 94px;
+	left: 22px;
+	width: 80%;
+}
+#menu{	
+	padding:10px;
+	margin-top:0px;
+	float:left;
+	width:15%;
+}
+#menu h1{
+	font-size:18px;
+	border-bottom: solid 1px #5C863E;
+}
+#menu a{
+	font-size:14px;
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#000000;
+	display:list-item;
+	list-style:none;
+}
+#menu a:hover{
+	text-decoration:none;
+	text-transform:uppercase;
+	background-color:#5C863E;
+	color:#FFFFFF;
+}
+#areaContido{
+	margin-top:0px;
+	float:right;
+	width:80%;
+	border-left: dotted 1px #000000;
+}
+#areaContido h1{
+	margin:10px 0 0 10px;
+	font-size:18px
+}
+#areaContido h2{margin:0 0 0 10px;font-size:14px}
+#areaContido h3{margin:0 0 0 10px;}
+#areaContido a{
+	font-size:16px;
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#000000;
+}
+#areaContido a:hover{
+	text-decoration:none;
+	text-transform:uppercase;
+	background-color:#5C863E;
+	color:#FFFFFF;
+}
+
+#pie{border-top: solid 1px #5C863E;clear:both;}
+#pie p{font-size:10px;margin:10px;color:#5C863E;}

@@ -1,0 +1,53 @@
+/* Created by ARDORA - http://www.webardora.net */
+* { margin: 0; padding: 0;}
+body {
+		--cfondo:#FFFFFF;
+		--cseleccion:#7B8C01;
+		--cboton:#C0DB01;
+		--cfonte:#292929;
+		--cback:#EAF4AC;
+	margin: 5px 0;
+	*BAC=none
+	*BACPos=center
+	*BACRep=repeat
+	*BACCol=#FFFFFF;
+}
+body, th, td {
+	*FFA
+	font-size: 13px;
+	color: #666666;
+}
+h1, h2, h3 {
+	*FFA
+	color: var(--cboton);font-size:18px;}
+h2 {color:var(--cfonte);font-size:14px;}
+p, ul {margin-top: 1.5em;line-height: 0.8em;font-size: 1.1em;}
+ul, ol {margin-left: 3em;}
+a { text-decoration: none; border-bottom: 1px var(--cseleccion); var(--cboton);}
+h1 a, h2 a, h3 a {border: none;text-decoration: none;color: #626456;}
+h1 a:hover, h2 a:hover, h3 a:hover {background: none; border-bottom: 1px dotted var(--cseleccion); color: var(--cboton);}
+#cabeceira {width: 98%;height:24px;margin: 0 auto;}
+#menuPrincipal {float: left;padding-bottom:2px;width:100%;}
+#menuPrincipal ul {margin: 0;padding: 0;list-style: none;line-height: normal;}
+#menuPrincipal li {float: left;}
+#menuPrincipal a {display:block;float:left;height:18px; margin-right: 1px; padding:5px 10px 0 10px; background:var(--cback); text-decoration: none; font-size:0.8em;font-weight:bold;color:var(--cseleccion);border-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: none;border-left-style:solid;border-color: var(--cboton);}
+#menuPrincipal a:hover { background:var(--cboton); color:var(--cfondo);}
+#titulo {width: 98%;margin: 0 auto;height: 50px;background:var(--cboton); border: 1px solid var(--cboton);}
+#titulo h1 {float: left;margin: 0;font-size:24px;color:#fff; padding: 5px; width:75%;}
+#titulo h2 { float:right;margin: 0;padding: 10px 5px 5px 5px; font-size:12px;color:var(--cseleccion);text-transform: uppercase;}
+#titulo h2:first-letter{font-size: 16px;}
+#paxina { width: 98%; margin: 0 auto; padding: 5px 0 0 0; background: var(--cfondo); border: 1px solid var(--cboton); border-top: none;}
+#areaContido { float: left; width: 80%; padding: 0 5px 0 5px; margin: 0; font-size: .8em; color: #CFCFCF;}
+#botons {border-top-color:var(--cboton); border-top-style:dashed; border-top-width:thin;width:100%;padding-top:4px;background:var(--cback);}
+#enunciadoAct{ font-weight:normal; text-align:justify; width:98%;}
+#contidoAct{padding:0px; margin:0px;}
+#menu{ border-left-color:#ECECEC;border-left-style:dashed;border-left-width:thin;float: left;width: 14%;float:right;padding: 5px 0 0 15px;}
+#menu ul {margin: 0;padding: 0;list-style: none;}
+#menu li li {padding: 5px;margin: 0;font-size: .8em;}
+#menu li a {color:var(--cseleccion);border: none;font-size:12px; font-style:normal;}
+#menu li a:hover {border: none; background:var(--cboton); color: var(--cfondo);
+font-style:inherit;font-size:1opx;text-transform:uppercase;}
+#areaMedia{top:100px;}
+.oversvg{fill:var(--cboton);cursor: pointer;margin: 0 5px 0 5px;}
+.oversvg:hover{fill:var(--cseleccion);}
+#menu h2{border-bottom-color: var(--cboton);border-bottom-style: groove;border-bottom-width:thin;margin-top:10px;}

@@ -1,0 +1,681 @@
+﻿&Arquivo
+Sa&ír
+&Idioma
+Saír de Ardora
+Cargando aplicación...
+&Nova actividade
+&Panel gráfico
+&Sopa de letras
+&Constrúe palabras
+Por nome ós elementos marcados nun gráfico
+Esta actividade permítelle:
+Creación
+Escolla o gráfico
+Faga dobre-clic no gráfico para marcar puntos
+Escriba o enunciado para a actividade
+Comprobe o resultado real:
+Grave a actividade
+Publique a actividade
+Xa existe unha imaxe, ¿ desexa escoller unha nova?, esto implicará o borrado dos posibles puntos seleccionados.
+Palabra
+A imaxe que está intentando abrir é demasiado grande, por favor reduzaa (máx. 600x460) e intenteo de novo.
+Introduza a palabra:
+Cancelar
+Aceptar
+Borrar palabra
+Para borrar unha palabra, escolla unha cela que teña datos
+¿Realmente desexa borrar a palabra:
+Mediante o panel gráfico o/a alumno/a debe de relacionar os puntos marcados no gráfico coa palabra que vostede asigne a cada un dos puntos.
+Axuda
+Propiedades
+Cores dos puntos:
+Contorno de solución:
+Alumnos e alumnas:
+Publicar:
+Limitar por tempo
+Amosar intentos e acertos
+Por puntuación
+Método de solución: #Seleccionando palabra#Escribindo palabra (encima do punto)#Escribindo palabra (indicando con frecha).
+Destinatarios: #Todos e todas#Só os alumnos e alumnas marcadas.
+Permitir imprimir
+&Utilidades
+&Configurar Ardora
+Configuración inicial da aplicación.
+Idioma: #Galego#Castellano#Catalán#Euskera#Portugués PT#Inglés#Francés#Aragonés#Portugués BR#Ruso#Romanés#Asturiano#Italiano.
+Pechar
+Gravar
+Erro ó gravar o arquivo
+Actividade sen gravar
+Ó rematar o tempo: #Parar#Volver a empezar#Amosar solución.
+Rematar despois de...
+fallos
+INTENTOS:
+ACERTOS:
+PUNTOS:
+TEMPO:
+Branco#Azul#Amarelo#Negro#Rosa#Marrón#Violeta#Gris#Verde.
+Branco#Azul#Amarelo#Negro#Rosa#Marrón#Violeta#Gris#Verde.
+Gravar como...
+A actividade non foi gravada, desexa pechar ardora sin gravala?
+Debe escoller un gráfico na pestana de creación
+Autor/a:
+Tipo de publicación: #Publicación sinxela#Publicación en servidor.
+Características da ventana no navegador:
+Título da ventá:
+Por barra de navegación
+Liña de separación enunciado/act.
+Ver
+A&brir
+A actividade non foi gravada, desexa abrir unha actividade sin gravala?.
+Erro abrindo actividade
+&Crebacabezas
+Abrir actividade gardada
+Crebacabezas
+Crear un crebacabezas
+O/a alumno/a deberá de intercambiar as distintas imaxes ata formar a correcta.
+Acerca do crebacabezas
+Seleccione número de filas e de columnas:
+Filas:
+Columnas:
+A&xuda
+&Ver axuda
+&Correo-e ó autor
+Acerca de...
+Pechar actividade
+O/a alumno/a deberá de atopar nunha sopa de letras as palabras introducidas
+Faga doble clic na táboa para introducir as palabras
+Sopa de letras
+Crear sopa de letras
+Palabra
+Definición
+A palabra debe de ter un mínimo de tres letras
+A palabra non pode conter espacios en branco
+Escriba o enunciado para a actividade
+Método de solución: #Con lista de palabras a buscar #Con definicións das palabras a buscar #Sen ningunha axuda.
+&Unidades de medida
+&Euros
+&Reloxos
+&Encrucillados
+Pirámi&des
+&Xogos de palabras
+&Actividades con gráfico
+&Cálculo
+P A L A B R A S:
+D E F I N I C I Ó N S:
+Contar moedas
+Euros - Contar moedas
+Representar con moedas cantidades inferiores ós 5 euros
+O/A alumno/a deberá de escolle-las moedas precisas para a cantidade sinalada ou escribir a cantidade
+Escolla a forma de xerar as cantidades:
+#Específicas#Aleatoriamente.
+Método de solución: #Escollendo as moedas ou billetes#Escribindo a cantidade.
+Correcto
+MOEDAS
+Volve a intentalo
+Introduza como mínimo unha cantidade maior que 0
+Contar &billetes
+Euros - Contar billetes
+Representar con billetes cantidades inferiores a 880 euros
+O/A alumno/a deberá de escolle-los billetes precisos para cantidade sinalada ou escribir a cantidade
+A cantidade introducida debe de ser múltiplo de 5 e igual ou inferior a 880
+BILLETES
+Reloxos
+Por na hora indicada un reloxo analóxico e/ou un dixital
+O/A alumno/a deberá de "por en hora" un reloxo analóxico e/ou un dixital.
+Introduza as horas e a súa expresión.
+Método de solución; #Analóxico #Dixital #Analóxico e dixital.
+Grave/publique a actividade
+&Relacionar
+Relacionar parellas de palabras
+Faga doble-clic na táboa para engadir
+Esquerda
+Dereita
+Introduza as dúas palabras
+C&lasificar
+&Palabras
+Clasificar palabras
+Agrupar palabras en 2 ou 3 conxuntos
+Introduza os criterios de agrupamento
+Faga doble-clic na táboa para engadir
+Debe de introducir polo menos os dous primeiros criterios de agrupamento
+Palabras
+Relacionar palabras
+Descubrir parellas de palabras
+Debe de escribir parellas completas (na dereita e na esquerda)
+Método de solución; #Unindo con frechas.  #Xogo de memoria.
+&Completar
+Palabras con &sílabas
+Completar palabras
+Seleccionar a sílaba correcta para unha palabra
+Se se produce un erro... #Non amosar ningunha mensaxe #Amosar mensaxe.
+Correcta
+Opc.
+Introduza na palabra un guión "-" no lugar da sílaba
+Debe de introducir un guión no lugar da palabra ocupado pola sílaba
+Debe de introducir a sílaba correcta e polo menos unha posible opción.
+Aceptar
+&Imaxes
+Clasificar imaxes
+Agrupar imaxes en 2 ou 3 conxuntos
+Debe de introducir polo menos os dous primeiros criterios para a clasificación
+Imaxes
+Datos da actividade
+Seleccione as opcións de tempo e aspecto
+Escolla o método de solución da actividade
+Gravar actividade
+Gravar como...
+Publicar actividade
+Ver actividade
+A imaxe que está intentado introducir é demasiado grande, por favor reduzaa a un tamaño menor de 600X150 píxeles
+Criterio de clasificación
+Debe seleccionar o criterio e/ou a imaxe da palabra
+&Esquemas
+Esquemas
+Realizar esquemas de ata catro niveis de profundidade
+Nº orde
+Concepto
+Nº orde
+Concepto
+Introduza os conceptos do esquema
+Empregue únicamente números espaciados por puntos. Por exemplo 1 para o primeiro apartado e 1.1 para o primeiro subapartado do primeiro apartado.
+Debe de introducir o número de orden e/ou o concepto
+Xa existe un concepto co mesmo número de orden que o que acaba de introducir.
+Non existe un número de orden precedente do que poda depender este concepto
+Tamaño da fonte
+Amosar a solución directamente
+Tangram
+Tangram
+Realizar diversas figuras coas pezas dun tangram
+Faga doble clic na grella (situar pezas)
+Con liñas no modelo
+Con guías solución
+Método de solución: #Figuras libres #Realizar un modelo.
+Actividade con sons
+Distinguir sons
+Auto-ditados
+Distinguir sons
+Recoñecer a grafía do son escoitado
+Relacionar sonido-imaxe/s
+&Ferramentas
+Gravadora de sons
+Encrucillados
+Resolver encrucillados
+Filas:
+Columnas:
+Introduza nº de filas e columnas
+Cubra o encrucillado >>>
+Doble-clic na táboa para as definicións
+Sentido da escrita
+Horizontais
+Verticais
+&Colorear
+Colorear
+Colorear unha imaxe
+Método de solución: #Coloreado libre #Coloreado según lenda.
+Introduza a lenda e coloree
+Crebacabezas numérico
+Crebacabezas numérico de operacións
+Escoller operacións matemáticas completas
+Operación
+Introduza as operacións
+Operación
+A serpe dos números
+A serpe dos números
+Atopar resultados de contas
+Comenzar
+Escolla opcións e número de "vidas"
+Nº de vidas
+Vidas
+Ardora creou os arquivos:
+execute este último para acceder á actividade.
+Lembre que ambos arquivos han de estar na mesma carpeta.
+Doble clic na táboa para engadir:
+¿ Desexa, realmente, quita-lo arquivo
+A imaxe escollida supera os 100x100 píxeles, reduzaa e intenteo de novo.
+Debe de introducir a palabra correcta e, polo menos, unha alternativa.
+Palabra
+Arquivo de son
+Arquivo imaxe
+Palabra
+Arquivo imaxe
+Palabra
+Arquivo imaxe
+Palabra
+Arquivo imaxe
+1ª Alternativa
+2ª Alternativa
+3ª Alternativa
+¿ Realmente desexa borrar:
+Escolla método
+Método de solucción: #Texto #Imaxe #Texto + imaxen.
+A lo menos unha das palabras non ten imaxe asociada, imposible cambiar método
+Debe de seleccionar un arquivo de son.
+Auto-ditados
+Escribir os sons oidos
+Escolla o arquivo de son e introduza o texto correcto
+Texto correcto
+&Ordenar
+&Frases
+Ordenar
+Ordenar as palabras dunha frase ou serie
+Faga doble clic para introducir datos
+Frases / Series
+Pista / Pregunta
+Método de solución: #Sen axuda#Marcando as palabras mal colocadas.
+Introduza a frase/serie a ordenar (a pregunta/pista é opcional)
+A imaxe que está intentado introducir é demasiado grande, por favor reduzaa a un tamaño menor de 175X175 píxeles
+Textos con palabras (seleccionado)
+Completar
+Completar un texto con palabras que se seleccionan dunha lista
+Texto
+Método de solución: #Indicando as alternativas a cada palabra #Todas as palabras son alternativa.
+Alternativas
+Escriba entre caracteres "$" a palabra que desexe ocultar
+Non hai un número par de "$" para determinar as palabras que quere ocultar.Exem: O fémur é un $oso$. (ocúltase "oso").
+¿Realmente desexa eliminar todo o texto e as variantes introducidas?
+Mensaxes
+Páxina web
+Felicitación
+L. Tempo
+L. Intentos
+Bonificación acertos
+3.- Páxina web
+1.- Actividade
+2.- Opcións de execución
+Elixa o aspecto da páxina web que contén á actividade
+Fonte
+Tamaño
+Negriña
+Itálica
+Posición da actividade: #Esquerda #Centro #Dereita.
+Posición do enunciado: #Esquerda #Centro #Dereita #Xustificado.
+Liña de separación activi./autor.
+Textos con palabras (escribindo)
+Completar un texto escribindo as palabras.
+Solucións tamén válidas
+Aspecto da axuda:
+Tamaño Fonte
+Aspecto da actividade:
+Tamaño Fonte
+Test
+Test
+Crear test de resposta indicada
+Pregunta
+Correctas
+Incorrectas
+Mensaxe de erro
+Orden de resposta: #En orden #Aleatoriamente.
+Pregunta
+Resposta
+Mens. Erro
+Mensaxes
+Gardar
+Gardar como
+Parágrafos
+Ordenar parágrafos
+Por en orde parágrafos/frases para que teñan un sentido lóxico
+Escriba os parágrafos/frases no orde en que deberían de estar
+Cores
+Fondo
+Selección
+Botóns
+Fonte
+Resumo da actividade
+Imaxes
+Ordenar imaxes
+Por en orden unha secuencia de imaxes
+A imaxe que está intentado introducir é demasiado grande, por favor reduzaa a un tamaño menor de 150X150 píxeles
+Por resumo da actividade
+Frases
+Relacionar frases
+Emparellar frases ou expresións atendendo a un criterio
+Debe de especificar tanto a frase da esquerda como a da dereita ou deixa-las dúas en branco
+Aspecto das mensaxes
+Ardora aún no está traducido a esta lengua, si usted desea traducirlo a esta u otra cualquiera (muy sencillo) no tiene más que ponerse en contacto con el autor en el correo contacto@webardora.net
+Imaxe - Frase
+Relacionar imaxe - frase
+Emparellar imaxe cunha frase ou parágrafo
+A imaxe que está intentando introducir é demasiado grande, por favor reduzaa a un tamaño non superior a 200x200 píxeles
+Debe de especificar imaxe e frase ou ben deixar as dúas en branco
+Colorear segundo lenda
+Colorear segundo lenda
+Dar cor a un gráfico en función dunha lenda
+Texto en lenda
+Texto en gráfico
+Cor
+Escolla a cor na lenda anterior pulse sobre a imaxe
+Por lenda en imaxe
+Escolla a lenda que quere que apareza na imaxe # Igual a da lenda principal # Outra.
+Tamaño fonte en imaxe
+Borrar a derradeira cor asignada
+Non hai cor para seleccionar, faga doble clic sobre a táboa de lendas si desexa engadir/modificar algunha cor/lenda
+Primeiro debe de cargar un gráfico premendo sobre o botón do punto 1
+Hai lendas intermedias sin definición de cor. Pode definir dende 1 ata 10 lendas e cores, pero non pode deixar ocos "sin cor" entre as definidas.
+Esta zona xa ten unha cor asignada, debe de borrarla e voltar a asignar a nova cor
+Imaxe - Imaxe
+Relacionar imaxe - imaxe
+Emparellar imaxes que teñan unha relación
+Debe de especificar na esquerda e na dereita as imaxes que forman cada unha das parellas da actividade
+Simetrías, traslacións e xiros
+Simetrías, traslacións e xiros sinxelos
+Partindo dun debuxo incial sinxelo deberase de realizar a simetria, traslación ou xiro
+Tipo a realizar: #Simetría #Traslación (còpia) #Xiro.
+Comprobar solución: #Manual #Automático.
+Ver actividade
+Publicar actividade
+Xeoplano
+Xeoplanos
+Seleccione os distintos parámetros para a actividade
+Realizar diversas actividades sobre xeometría
+Tipo de xeoplano: #Cadrado #Triangular.
+Tipo de actividade: #Libre #Condicionada.
+Xeometría
+Amosar:
+Nº de lados
+Nº de vértices
+Perímetro
+Área
+Colorear superficie
+Etiqueta
+Unidades
+Condicións:
+Nº de lados =
+Perímetro =
+Área =
+NOTA: Ardora non realiza ningunha comprobación previa á actividade para determinar si existe un polígono que reuna as condicións introducidas.
+Por Nº de vértice
+Botón Comenzar
+Empregue únicamente números e o punto para os decimais (2 máximo)
+Figura regular =
+----------#Triángulo equilátero#Triángulo isósceles#Triángulo escaleno#Triángulo acutángulo#Triángulo rectángulo#Triángulo obtusángulo#Cadrado#Rectángulo#Romboide#Rombo#Trapecio.
+Ó rematar o tempo: #Parar #Volver a empezar.
+Ardora detectou unha ventana aberta do IE e pechouna, lembre que para ver as posibles modificacións sobre unha actividade debe de ter pechada calqueira ventana do navegador.
+Tamaño da sopa
+Tamaño da actividade
+Destino
+Nova ventá#Mesma ventá#Ventá pai.
+Nova ventá#Mesma ventá#Ventá pai.
+Escriba a mensaxe que aparecerá cando a actividade sexa resolta na súa totalidade correctamente. Pode deixalo en branco e/ou introducir na URL o enderezo dun arquivo a amosar.
+Se o arquivo html, pdf, etc que quere ensinar se atopa nun sitio de internet distinto do que se atopa a actividade, empece por "http://", noutro caso simplemente escriba a ruta de acceso ó arquivo.
+ADVERTENCIA: Si escribe a ruta dun arquivo, esta funcionalidade non se executa correctamente en "ver actividade" (botón ollo), publique a actividade e execute o htm creado para comprobar.
+Escriba a mensaxe que aparecerá no caso de que limite a actividade en tempo e que este se agote antes de que sexa dada unha resposta correcta.
+Nova ventá#Mesma ventá#Ventá pai.
+Nova ventá#Mesma ventá#Ventá pai.
+Escriba a mensaxe que aparecerá no caso de qe se exceda o número máximo de intentos fallidos
+Introduza a mensaxe que aparecerá no caso dunha resposta incorrecta.
+Ignorar maiúsculas/minúsculas
+Facer actividade compatible con SCORM 1.2
+Se a actividade foi resolta correctamente: #Pódese volver a facer #Non se pode volver a facer.
+Localización dentro do curso
+Puntuación:
+Se a actividade rematou incorrectamente: #Pódese volver a facer #Non se pode volver a facer.
+Por cada resposta correcta
+Por cada resposta incorrecta
+Ancho área de texto
+Crear un paquete SCORM para ser importado por progamas de LMS
+Título do curso
+1.- Curso
+2.- Contedores
+3.- Actividades
+4.- Crear paquete SCORM
+Identificador (comence por unha letra)
+Versión
+Descrición
+Palabra clave
+Debe de especificar o nome e o identificador do curso
+Debe de especificar polo menos un contedor
+Debe de introducir título, identificador e arquivos nos que está incluida a actividade
+Identificador como obxetivo
+# Mantense a puntuación acadada # Dase como puntuación ...
+# Mantense a puntuación acadada # Ponse a puntuación a cero.
+Acaba de crear unha actividade compatible con SCORM 1.2, para que esta actividade poda ser incorporada ós LMS (Moodle, Dokeos) debe de ir a Utilidades-SCORM e crear un paquete.
+Actividade
+Xogo de memoria
+Descubrir parellas de palabras/imaxes
+Retardo entre intentos
+Permitir teclado
+Álbum
+Método de solución: #Colocar texto #Colocar imaxen #Escribir texto #Colocar texto e imaxe en orden.
+Debe de especificar unha palabra e unha imaxe para a liña:
+Emparellar palabra - imaxe, identificar imaxes, ordenar imaxes
+A&forcado
+Xogo do aforcado
+Método de solución: #Tradicional #Ordenando letras da palabra.
+Paquete de actividades Ardora
+Crear un sistema de navegación entre actividades
+1.- Escolla as actividades
+2.- Introduza datos xerais
+3.- Cree o paquete
+Título
+Pé de páxina
+Menú principal
+Introduza os datos
+Menú lateral
+Crear 1ª páxina con ligazón a todas as actividades
+Nº
+Arquivo
+Liga. Act
+Seg/Ant
+Av. Aut
+Marcar todos
+Debe especificar, como mínimo, unha descrición e un arquivo da actividade.
+Texto na primeira páxina índice
+Título das páxinas
+Ligazón
+Hai unha ligazón que non ten URL ou unha URL que non ten ligazón.
+Cabeceira
+Subtítulo
+Centrar ventana de actividade
+Tamaño da ventana: #800x600 #1024x768.
+Primeiras letras para o nome dos arquivos
+Tema
+Crear paquete de actividades Ardora
+Cabeceira para as ligazóns ás outras actividades
+Colocar botón de pechar nas actividades
+Función do botón pechar #Pechar a ventana  #Mandar a.
+Etiqueta do botón de axuda
+Etiqueta do botón de pechar
+Debe de indicar o nome da carpeta onde se creará o paquete (Destino)
+Auto - axustar ancho de actividade
+M.P.
+M.L.
+Seleccionar
+Palabras dun parágrafo
+Debe de especificar a característica das palabras do grupo
+Debe de introducir un texto ou frase.
+non se atopa no texto, introduza unha palabra que coincida exactamente con unha do texto
+xa está escrita, polo menos dúas veces, borre unha das entradas desta palabra.
+Palabras. O texto introducido ten 100 ou mais palabras, elimine palabras e volva a intentalo:
+Damero
+Descubrir un texto oculto mediante definicións de palabras
+Resaltar letras erróneas
+Correcto si... #parágrafo e definicións son correctas #parágrafo é correcto.
+Esta actividade non contempla o emprego de acentos.
+Encrucillado de números
+Crear encrucillados con operacións matemáticas
+Resultados
+Números
+Operacións
+#Ocultar números #Ocultar operacións #Seleccionar celas a ocultar.
+Cela oculta
+NON se pode introducir a división coas cantidades actuais xa que se produciría unha división por cero. Modifique primeiro o divisor e volva a intentalo.
+Columnas movedizas
+Ordenar un texto movendo filas ou columnas dunha parrilla
+#Mover columnas #Mover filas #Mover filas e columnas.
+Táboas
+Completar as celas dunha táboa
+Contido da cela: #Texto #Marcar #Seleccionar.
+Primeira cela
+Puntos dunha imaxe
+Faga clic no gráfico para delimitar zona.
+Faga doble-clic para pechar a zona
+Palabra en gráfico
+Agrupar con
+NON se pode borrar a zona: Hai zonas agrupadas a esta.
+Debuxar zona ó acertar
+Palabra para corrixir
+Editar unicamente as palabras sinaladas
+Se marca a edición únicamente das palabras sinaladas non pode por como correctas, para a mesma palabra, dúas ou máis palabras. Corrixa a liña:
+Por botón para "seguinte"
+Gráficos estatísticos
+Liñas e barras
+Eixe das X
+Eixe das Y
+Ítems
+Tipo de gráfico: #Liñas #Barras.
+Tipo de actividade: #Fixa #Libre #Cubrir datos #Axustar gráfico #Axustar datos e gráfico.
+Iniciar en:
+Nº de divisións:
+Por datos no gráfico
+Ver táboa de datos
+este valor non se corresponde cos valores determinados para o eixe Y, cambie este valor e intenteo de novo.
+Circulares
+Os valores introducidos suporán proporcións difíciles de percibir en pantalla. Rebaixe os valores ou aumente o incremento.
+Ver táboa de %
+Valor
+Textos con palabras (arrastrando)
+Tempo de espera nas mensaxes
+ 1 - 1
+Varios - Varios
+# Escribir datos # Unir celas.
+Colocación inicial: #Aleatoria #Fixa, igual ó diseñado.
+Contar cartos
+Escolla a moeda e o número de unidades coas que se contará
+#Moedas #Billetes.
+Mostrar / Escribir: #Cantidade completa (exm. 4,05 €) #Unidades e decimais (exem. 4 € e 5 cént.) #As dúas#Ningunha (Únicamente para "Libre").
+Aceptar como resposta correcta: # Calquera válida #A que empregue menos moedas e/ou billetes.
+Método de solución: #Escollendo as moedas ou billetes#Escribindo a cantidade#Libre.
+Mostrar moedas e/ou billetes: #Ordenadas de maior a menor #Ó chou.
+pixels
+Introduza o nome do apartado e o seu identificador (debe de empezar por letra)
+Seleccione apartado (contenedor):
+Introduza o nome da actividade, o seu identificador (debe de empezar por letra) e especifique os arquivos que a forman.
+Nova páxina multimedia
+Galería de imaxes
+1.- Contido
+2.- Páxina web
+Tamaño das miniaturas
+Tamaño das imaxes
+Prema co botón dereito e "pegue" o código.
+Miniatura
+Ancho
+Área visible:
+Imaxe
+Texto e imaxes
+Tamaño páx.
+Reprodutor de ...
+Imaxen
+Arquivo de vídeo
+Panorama interactivo
+Ó facer clic abrir... #URL #Imaxe #Actividades Ardora #Multimedia Ardora #Paquete de actividades Ardora #html, pdf, jpg...#Servidor Ardora.
+Posición
+ancho
+alto
+Posición inicial
+Retardo velocidade
+Etiqueta debe de ter un valor (obrigatorio)
+Climograma
+Espacio entre meses
+Espacio entre valores
+Elementos móbiles
+Pestanas / Acordeóns
+Tipo:  #Pestanas horizontais #Pestanas verticais #Acordeón.
+Espazos Web
+Menú despregable
+Ventás
+Destino: #Ventá nova #Pop-up #Mesma ventá #Ventá de diálogo.
+Estrutura da páxina
+Aspecto
+autoaxustar
+Espazo central
+Menú gráfico
+#Lineal #Desplegable.
+Persoalizado
+Plantilla
+Copiar datos desde tema
+Contido inicial
+Sons
+Nova páxina en servidor
+Xestión de usuarios
+Anotacións colectivas
+Álbum colectivo
+Chat
+Votacións
+Procesador de textos
+Nome completo
+Coordinador/a
+Nome usuario/a
+Contrasinal
+Xa existe un usuario con ese nome, por favor, introduzca outro.
+Profesorado
+Curso
+Grupo
+Usuario/Contrasinal incorrecto
+Comentario
+Data
+Ruta ó servidor local
+Nome carpeta contedora
+Marxe
+Ordenar por:  #Palabra principal #Data #Autor
+Máximo
+Pizarra
+Liña de tempo
+Sistema de comentarios
+Privado
+Xestor de arquivos
+Compartida
+Directorio
+Carpeta
+Información
+Re. Aut.
+Autoavaliación
+Execucións
+Estado
+Inicio
+Fin
+Póster
+Individual
+Área de traballo
+Borrar
+Debuxar
+Actualizar
+Libro
+Páxina
+En branco
+Portada
+Reemplazar
+Nome incorrecto
+Enunciado
+Incremento
+Formulario
+Área de texto
+Editable
+Usuario
+Total
+Biblioteca
+Notas
+Aula
+Para ver este contido necesita especificar no menú de Utilidades-Configurar unha ruta a un servidor web. Consulte a axuda do programa.
+Os elementos deste gráfico carecen de identificadores. Por favor abra o arquivo con Inkscape, gárdeo con outro nome e inténteo de novo.
+Nome da acción
+Introduza acción
+Acción
+Elemento
+Excluír
+Movemento
+Letras
+So reproducir
+Engadir
+Labirinto
+Realmente desexa engadir todas as actividades contidas en
+Calculadora
+Pentominó
+Activar
+Mover
+Ir á primeira actividade non resolta.
+Gravando
+Gravadora
+Gravado
+Subindo arquivos
+Configurando
+Mortos e feridos

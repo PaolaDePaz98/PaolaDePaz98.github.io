@@ -1,0 +1,86 @@
+/*Created by Ardora http://www.webardora.net*/
+* {margin:5px;padding: 0;}
+body {
+	*FFA
+	*BAC=none
+	*BACPos=center
+	*BACRep=repeat
+	*BACCol=#355379
+	font-style:normal;
+	font-size:small;
+	color: #FFFFFF;
+}
+
+ul {margin-left: 3em;}
+ol {margin-left: 3em;}
+a {color: #FFFFFF;}
+a:hover {text-decoration: none;}
+.boxed {margin-bottom: 20px;background: #788CA5;border: 3px solid #FFFFFF;}
+.boxed .title {height: 26px;padding: 10px 0 0 10px;background: url(images/img02.gif) repeat-x;border-bottom: 3px solid #FFFFFF;
+font-size: 1em;color: #355379;}
+.boxed .content {padding: 5px 5px 5px 5px;}
+.post {margin-bottom: 5px;padding: 5px 5px 5px 5px;
+background: #788CA5;border: 3px solid #FFFFFF; text-align:justify;}
+.post .title {clear: both;padding: 0 0;color: #355379;}
+.post .meta {
+	float: left;
+	width: 332px;
+	height: 28px;
+	border: 1px solid #FFFFFF;
+	text-align: center;
+	font-size: x-small;
+}
+.post h3 {text-transform: uppercase;letter-spacing: 2px;font-size: .8em;}
+.post .story p, .post .story blockquote, .post .story ul, .post .story ol {margin-bottom: 1.5em;line-height: 180%;}
+#logo {width: 100%;height: 45px;margin: 0 auto;}
+#logo h1 {padding: 5px 0 0 5px;letter-spacing: -2px;font-size: 26px;}
+#logo h1 span {font-size: .7em;font-weight: normal;}
+#logo h2 {
+	float:right;
+	margin-top: -1em;
+	padding: 0 0 0 10px;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	font-size: .8em;
+	font-weight: bold;
+}
+#logo a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+#menuPrincipal {
+	width: 100%;
+	height: 30px;
+	margin-bottom:0;
+	margin-top:0;
+}
+
+#menuPrincipal ul {margin: 0;list-style: none;}
+#menuPrincipal li {display: inline;}
+#menuPrincipal a {
+	display: block;float: left;
+	padding: 0 5px 0 5px;
+	text-decoration: none;
+	font-size: 12px;font-weight: bold;
+}
+
+#menuPrincipal a:hover {text-decoration: underline;}
+#menuPrincipal .active a {text-transform: uppercase;}
+#content {width: 100%;margin: 0 auto;}
+#areaContido {float: right;width: 78%;}
+#menu {float: left;width: 18%;}
+#updates ul {margin: 0;list-style: none;}
+#updates p {font-size: smaller;line-height: normal;}
+#partners .content {padding: 10px 0;}
+#partners ul {
+	margin: 0;
+	border-bottom: 1px solid #D1BC5C;
+	list-style: none;
+	line-height: normal;
+}
+#partners li {padding: 10px;border-top: 1px solid #D1BC5C;}
+#footer {clear: both;width: 100%;margin: 0 auto;
+padding: 2px 0;border-top: 1px dotted #FFFFFF;}
+#footer p {margin: 0;font-size: x-small;}
+#areaMedia{top:70px;}

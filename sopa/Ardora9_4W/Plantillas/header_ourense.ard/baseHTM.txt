@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--ArdoraPaquete-->
+<!--Created by Ardora - www.webardora.net-->
+<head><meta charset="utf-8"/>
+*A01*<title>A01</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+*A02*<link href="A02" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body onload="MM_preloadImages('images/ant0.jpg','images/pecha0.jpg','images/fora0.jpg','images/axuda0.jpg','images/seg0.jpg')">
+
+	<div id="contenedor"><div id="content">
+		
+		<div id="cabecera">
+*A06*			<h1>A06</h1>
+			<h2>
+*A17*			<a href="A171" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/ant0.jpg',1)"><img src="images/ant1.jpg" alt="A172" name="Image1" width="24" height="20" border="0" id="Image1" /></a>
+*A08*			<a href="javascript:hideMenu('menu','areaContido','83%')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/pecha0.jpg',1)"><img src="images/pecha1.jpg" name="Image2" width="27" height="20" border="0" id="Image2" /></a>
+*B08*
+*A04*			<a href="A041" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/fora0.jpg',1)"><img src="images/fora1.jpg" alt="A042" name="Image3" width="19" height="20" border="0" id="Image3" /></a>
+*A03*			<a href="A031" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/axuda0.jpg',1)"><img src="images/axuda1.jpg" alt="A032" name="Image4" width="7" height="20" border="0" id="Image4" /></a>
+*A19*			<a href="A191" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/seg0.jpg',1)"><img src="images/seg1.jpg" alt="A192" name="Image5" width="24" height="20" border="0" id="Image5" /></a> 
+			</h2>
+		</div>
+		<div id="tiraMenu">
+		<div id="menuPrincipal">
+*A05*			<h2>A05</h2>
+*A07*			<a href="A071" target="A072" accesskey="A073">A074</a>
+		</div>
+		</div>
+		<div id="sombra">
+		</div>
+*A08*		
+		<div id="menu">
+
+*A09*			<h1> A09</h1>
+*A10*			<a class="lista" href="A101"target="A102">A103</a>
+*B09*
+*A11*			<h1>A11</h1>
+*A12*			<a href="A121" title="A122">A123 </a>
+*B11*		
+
+		</div>	
+*B08*
+	
+
+		<div id="areaContido">
+*A13*			<h1> A13 </h1>
+*A15*		  	<h2> A15 </h2>
+*A16*			<h3> A16 </h3>
+		</div>
+		<div id="pie">
+*A18*		<p>A182</p><!--"A181"-->
+		</div>
+	</div></div>
+
+</body>
+</html>

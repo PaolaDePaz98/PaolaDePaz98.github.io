@@ -1,0 +1,84 @@
+/* created by Ardora http://www.webardora.net*/
+* {background-color:#000000;}
+body {
+	*FFA
+	*BAC=none
+	*BACPos=center
+	*BACRep=repeat
+	*BACCol=#000000
+	padding-right:25px;margin-top: 5px;font-style:normal;
+	font-size:small;color: #999999;
+}
+h1, h2, h3 {color:#FFFFFF;}
+p, ul, ol {margin-bottom: 1.4em; line-height: 1.8em; text-align: justify;}
+ul {margin-left: 3em;}
+ol {margin-left: 3em;}
+a {text-decoration: none;color: #FFFFFF;}
+a:hover {background-image: url(images/img04.gif);}
+#tituloAct {padding: 0;margin:0;
+	background: url(images/img07.gif) repeat-x left bottom;
+	font-size: 1.6em;font-weight: normal;
+}
+.post .story p{padding: 0;margin:0;}
+#cabeceira {width: 100%;height: 27px;margin: 0 auto;padding: 0 0 0 5px;}
+#logo {width: 100%;height: 45px;
+	margin: 0 auto;padding: 6px 5px 0 15px;
+	border-bottom:4px solid #393F4D;
+}
+#logo h1 {float: left;font-size: 24px;letter-spacing: -1px;}
+#logo h2 {float: right;font-size: 11px;}
+#botons {float:right;width: 15%;height: 27px;
+	background-color:#000000;border:none;padding: 6px 0 0 5px;}
+#botons a{border:none;padding:0;color:#000000;}
+#menuPrincipal {float:left;width: 70%;height: 27px;margin: 0 auto; padding-top:0px;}
+#menuPrincipal ul {margin: 0;padding: 5px 0 0 0;list-style: none;}
+#menuPrincipal li {display: inline;}
+#menuPrincipal a {
+	display: block;
+	float: left;
+	height: 25px;
+	margin: 0 5px 0 0;
+	padding: 2px 25px 0 25px;
+	background: url(images/img03.gif) repeat-x;
+	border: 1px solid #222222;
+	text-align: center;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+#menuPrincipal a:hover {
+	background-image: url(images/img04.gif);
+	text-decoration: none;
+}
+#menuPrincipal .active a {background-image: url(images/img05.gif);}
+#content {
+	width: 100%;
+	margin: 0 auto;
+	padding: 5px 0 0 0;
+}
+#content a { margin: 0;padding: 0;}
+#areaContido {
+	float: left;
+	width: 78%;
+	margin-top:15px;
+	margin-left:15px;
+	padding-left: 5px;
+	border-left: 1px solid #393F4D;
+}
+#welcome {padding-top: 5px;}
+#menu {
+	float: left;
+	width: 18%;
+	margin-top:15px;
+}
+#menu h2 {
+	margin: 0;
+	padding:10px 0 0 0;
+	font-size: 1.3em;
+	color:#FFFFFF;
+	border-bottom: 2px solid #393F4D;
+}
+#menu p {padding:0 0 0 10px;margin:0;}
+#menu p a{padding:0 20px 0 0px;}
+#footer {width:100%;clear: both;padding: 6px 5px 0 15px;border-top: 4px solid #393F4D;}
+#footer p{margin: 0 auto;font-size: x-small;}

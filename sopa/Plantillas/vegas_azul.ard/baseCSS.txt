@@ -1,0 +1,78 @@
+/* Designed by Ardora http://www.webardora.net */
+body {
+	*FFA
+	*BAC=none
+	*BACPos=center
+	*BACRep=repeat
+	*BACCol=#FFFFFF 
+	margin: 10px;padding: 0;
+	font-weight:normal;
+	font-size:.7em;
+	color: #666666;
+}
+h1, h2, h3 {
+	font-weight: normal;
+	color: #333333;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+p, blockquote, ol, ul {line-height: 110%;}
+a {color:#3A69BA;}
+a:hover {text-decoration: none;}
+#contidoAct{margin:0; padding:0;}
+.boxed {float: left;clear: left;width: 200px;margin: 0 0 10px 0;padding: 0;background:#EFF3F9;}
+.boxed .heading {margin-top: 0;padding: 8px 15px;
+	background: #5E80BD url(images/img3.gif) no-repeat center bottom;
+	text-transform: uppercase;letter-spacing: 2px;
+	font-size:1em;font-weight:bold;color: #FFFFFF;
+}
+
+.boxed .content {margin: 0;padding: 0;}
+.boxed ul {margin: 0;padding: 0;list-style: none;line-height: normal;}
+.boxed li {padding: 3px 0;border-top: 1px dotted #1F1F21;}
+.boxed li.first {border: none;}
+.boxed a {padding-left: 6px;background: url(images/img4.gif) no-repeat left center;text-decoration: none;color:#000000;}
+.boxed a:hover{color:#5E80BD;}
+#wrapper {margin: 0 auto;border-right: 1px dotted #939A3C;}
+#header {float: left;width: 200px;height: 75px;background: url(images/img1.jpg);}
+#header h1 {margin: 0;text-align: center;letter-spacing: -1px;font-size: 2.5em;color:#FFFFFF;}
+#header h2 {margin: 0;padding: 30px 0 0 0;text-align: center;font-size: 1.2em;font-style: italic;color:#FFFFFF;}
+#pages {float: left;width:calc(100% - 210px);margin-left: 10px;height: 75px;background: url(images/img3.jpg);}
+#pages h2 {padding-top:5px;padding-left:18px;
+text-align:left;font-size:28px;font-style:normal;color:#FFFFFF;
+	*SHT
+}
+#pages ul {
+	float: right;
+	margin: 0;
+	padding-top:0px;
+	padding-right:15px;
+	list-style: none;
+	line-height: normal;
+}
+#pages li {display: inline;padding-left:1em;}
+#pages a {
+	padding: 0.5em;
+	text-decoration: none;
+	font: bold 1em;
+	color:#FFFFFF;
+}
+#pages a:hover {background-color:#EFF3F9;color:#000000;}
+#menuPrincipal a:hover{color:#000000; }
+#content {clear: both;padding-top: 10px;}
+#areaContido{float: left;margin-left: 10px; width: calc(100% - 210px);}
+.post {padding-top: 4px; text-align:justify;}
+.post .title {margin: 0;font-size: 2em;}
+.post .posted {margin-top: 0;font: normal .8em Tahoma, Arial, Helvetica, sans-serif;color: #999999;}
+.post .meta {
+	margin: 2em 0 3em 0;
+	border-top: 1px dotted #939A3C;
+	font: normal .8em Tahoma, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+.post .meta p {margin: 0;}
+#footer {clear: both;border-top: 1px dotted #000000;
+	font: normal .8em Tahoma, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+#footer a {color: #999999;}

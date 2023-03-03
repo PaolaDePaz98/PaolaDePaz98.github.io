@@ -1,0 +1,124 @@
+/* Created by Ardora http://www.webardora.net */
+body{
+	*FFA
+	*BAC=fondoTotal.jpg
+	*BACPos=top
+	*BACRep=repeat
+	*BACCol=#F9F9F7
+	margin:10px;
+}
+#contenedor{
+	background-color:#FFFFFF;
+	border-color:#000000;
+	border-width:thin;
+	border-style:solid;
+	text-align:justify;
+}
+#tiraMenu{
+	background: linear-gradient(to bottom, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);
+	height:40px;
+	padding:0px;
+	margin:0px;
+	font-size:16px;
+}
+#menuPrincipal{background: linear-gradient(to bottom, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);height:16px;font-size:12px;font-weight:bold;padding-top:4px;}
+#menuPrincipal a{
+	float:right;
+	padding-right:20px;
+	padding-left:20px;
+	color:#D5D200;
+	text-decoration:none;
+	border-left-width:1px;
+	border-left-style:dashed;
+	border-left-color:#FFFFFF;
+}
+#menuPrincipal a:hover{ color:#FFFFFF;}
+#menuPrincipal h2{margin:0px;padding:0px;float:left;margin-left:5px;color:#FFFFFF;font-size:12px;}
+#cabecera{background:url(images/header.jpg) no-repeat right top;padding:0px;margin:0px;height:40px;}
+#cabecera h1{
+	padding:0px;
+	font-size:30px;
+	margin-left:5px;
+	margin-top:0px;
+	color:#8A8C00;
+	margin-bottom:0px;
+	text-shadow:2px  2px 2px #000000;
+}
+#cabecera h2{
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#sombra{
+	height:14px;
+	width:100%;
+	margin:0px;
+	padding:0px;
+	background: #fff url('images/border1.gif') repeat-x;
+	clear:both;
+}
+#menu{ float:right; width:15%;}
+#menu h1{
+	margin-bottom:0px;
+	font-size:14px;
+	font-weight:bold;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	border-bottom-color:#000000;
+	color:#8C3100;
+}
+#menu a{
+	font-size:14px;
+	margin-left:5px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:#80715C;
+	text-decoration:none;
+	font-weight:normal;
+}
+#menu a:hover{ color:#8A8C00;border-bottom-style:dotted;border-width: 1px;}
+#menu p{ margin:0px; padding:0px;}
+#areaContido{ float:left; width:83%;}
+#areaContido h1{
+	margin-left:5px;
+	color:#000000;
+	font-size:16px;
+	font-weight:bold; margin-bottom:0px;
+}
+#areaContido h2{
+	margin-left:5px;
+	color:#000000;
+	font-size:14px;
+	font-weight:normal; margin-top:0px; margin-bottom:0px; visibility:hidden;
+}
+#areaContido h3{
+	margin-left:5px;
+	color:#000000;
+	font-size:12px;
+	font-weight:normal;margin-top:0px;margin-bottom:0px;
+}
+#areaContido a{
+	font-size:12px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:#80715C;
+	text-decoration:none;
+}
+#areaContido a:hover{ color:#647B2A;}
+#pie{
+	clear:both;
+	border-top-style:dashed;
+	border-top-width:1px;
+	border-top-color:#80715C;
+	padding:5px;
+	height:25px;
+}
+#pie p{ font-size:12px; float:left;}
+#botons{ float:right;}
+table a{font-size:14px;margin-left:5px;margin-right:10px;margin-top:0px;margin-bottom:0px;color:#80715C;text-decoration:none;font-weight:normal;}
+table a:hover{ color:#8A8C00;}
+#areaMedia{top:140px;}
+.bsvg{color:#80715C;}
+.bsvg:hover{color:#8C3100;}

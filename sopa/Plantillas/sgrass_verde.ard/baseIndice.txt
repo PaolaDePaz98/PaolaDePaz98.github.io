@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--ArdoraPaquete-->
+<!--Created by Ardora - www.webardora.net-->
+<head><meta charset="utf-8"/>
+*A01*	<title>A01</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="ardora" />
+*A02*	<link rel="stylesheet" type="text/css" media="screen" href="A02"/>
+<script type="text/javascript" src="js/ardoraPaquete.js"></script>
+</head>
+<body>
+		<div id="menuPrincipal">
+			<ul>
+*A07*				<li><a href="A071" target="A072" accesskey="A073">A074</a></li>
+			</ul>
+		</div>
+*A06*		<div id="header">A06</div>
+		<div id="subtit">
+
+			<table width="100%" border="0">
+			  <tr>
+*A05*				<td width="92%"><h2>A05</h2></td>
+				<td width="4%"></td>
+				<td width="4%"></td>
+			  </tr>
+			</table>
+		</div>
+		<div id="content">
+			
+		  <div id="areaContido">
+*A21*				<h2>A21</h2>
+*A22*				<p>A22</p>
+			    <table width="100%" border="0">
+                  <tr>
+*A23*                    <td width="50%"><li><a href="A231">A232</a></li></td>
+                    <td width="50%">&nbsp;</td>
+                  </tr>
+                </table>
+			</div>
+
+*A08*			<div id="menu">
+*A09*				<h3>A09</h3>
+*A10*				<li><a href="A101" target="A102">A103</a></li>
+*B09*	
+*B08*			</div>
+
+		</div>
+		<div style="clear: both;">&nbsp;</div>
+		<div id="footer">
+			<table width="100%" border="0">
+			  <tr>
+				<td width="8%"></td>
+*A24*				<td width="84%"><div align="center">A24</div></td>
+				<td width="8%"></td>
+			  </tr>
+			</table>
+		</div>
+</body>
+</html>

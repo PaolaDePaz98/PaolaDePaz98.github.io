@@ -1,0 +1,384 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+
+Simple Text-File Login script (SiTeFiLo).
+Copyright ©2004,2005,2006 by Mario A. Valdez-Ramirez
+(mario@mariovaldez.org). 
+(Read the license.txt file for details).
+
+
+=========================================
+* Requirements of the Simple Text-File Login script.
+
+* PHP 4.1.x or higher. Your web server should be able to interpret
+the PHP language. It really doesn't matter the platform (the SiTeFiLo
+script has been tested in GNU/Linux with Apache and in Windows 2000
+with IIS).
+* A web server (you already have one if you have a website). The 
+SiTeFiLo script has been tested with Apache and IIS, but it should
+work with any web server.
+
+
+
+=========================================
+* Installation and configuration 
+  of the Simple Text-File Login script.
+
+............................................
+  Integration with your existing website.
+............................................
+
+1) Convert to PHP.
+If you already have a web site with HTML pages, you need to convert
+them to PHP files. You only need to change the .htm or .html
+extension to .php. If everything is setup correctly in your server,
+your pages should load normally.
+
+2) Get the files.
+Get the files from http://www.mariovaldez.net/software/sitefilo/
+(There are zip and tar.gz files available).
+
+3) Unpack.
+Extract the files your website directory or unpack in your local
+drive and upload the files to your webserver. (Be careful of not
+overwriting any of your files).
+
+4) Create a common header and footer (optional).
+If your pages have a common look at the beginning and at the end, you
+can save lot of editing the next time you want to change (for
+example) the navigation of your site by moving that HTML code to the
+header.inc.php and footer.inc.php files. Those files will be included
+in all your .php files automatically if you want to. (Those files are
+provided with a minimal of code, if you won't use this feature, don't
+delete the files nor its content).
+
+5) Integrate the authentication.
+Use the provided index.php file as a guide about how to integrate the
+authentication script. At the beginning of your .php files, add the
+following code (if you want to leverage the common header and
+footer):
+<?php
+session_start();
+$slogin_noauthpage = 0;
+$slogin_pagetitle = "";
+include_once ("slogin_lib.inc.php");
+include_once ("header.inc.php");
+?>
+
+If you won't use the common footer and header, use this code:
+<?php
+session_start();
+$slogin_noauthpage = 0;
+$slogin_pagetitle = "";
+include_once ("slogin_lib.inc.php");
+?>
+
+And at the ending of your .php files add the following code only if
+you want to use the common header and footer:
+<?php include_once ("footer.inc.php"); ?>
+
+There are six variables that can be changed per-page:
+
+* slogin_pagetitle: The title string of the page.
+* slogin_noauthpage: Use 0 to enable authentication in that page, use
+1 to disable authentication.
+* slogin_path: The relative position of the page to the sitefile
+scripts (this is useful for pages in subdirectories).
+* slogin_lang: The language of the SiTeFiLo strings to be used for
+this page (to apply for all pages, set the global configuration).
+* slogin_redirect: The full URL where the user will be sent if login
+here (to apply for all pages, set the global configuration).
+* slogin_logoutredirect: The full URL where the user will be sent
+when logout (to apply for all pages, set the global configuration).
+
+6) Customize the login form (optional).
+You can change the way the login form will look by editing the
+slogin.inc.php file. The file is mostly HTML, just take care of not
+deleting the PHP variables included.
+
+7) Configure.
+Edit the slogin_lib.inc.php file to configure your authentication.
+
+* First change the slogin_default_lang variable to "en", "es", "fr"
+or "de" to change the login messages to English, Spanish, French or
+German. (This setting is a default to be used for the pages that
+don't define it).
+* Change the slogin_default_pagetitle variable to something like "My
+website". (This setting is a default to be used for the pages that
+don't define it).
+* Then change the slogin_userstxt variable to the name of your users
+file. For increased security change the name to something else
+(default name is slog_users.txt), for example: "my_friends_data.txt".
+* For even more security, enable the use of hashed (encrypted)
+passwords changing the slogin_usehashes variable to 1 (this is more
+important if you use the text user file).
+* If your web server has the PHP function fopen disabled, you can
+enable the alternate user php file; just change the
+slogin_canusefopen variable to 0 (it is not necessary to rename the
+slog_users.php file).
+* If you want the users to be redirected to another page once they
+login (for example to a welcome page) then set the
+slogin_default_redirect variable to the full URL of that page, for
+example "http://www.mydomain.com/welcome.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to another page once they
+logout (for example to a goodbye page) then set the
+slogin_default_logoutredirect variable to the full URL of that page,
+for example "http://www.mydomain.com/goodbye.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to special page once they
+login (for example to a personal welcome page for each user) then set
+the slogin_allowuser_redirect variable to 1. This option depends on
+the value of the slogin_default_redirect variable. So, for example,
+if slogin_default_redirect is set to
+"http://www.mydomain.com/private/" then user "mary" will be
+redirected to the URL "http://www.mydomain.com/private/mary" when
+login, user "john" will be redirected to page
+"http://www.mydomain.com/private/john", and so on. Please note that
+this only affects the redirection URL, not the permissions. In these
+examples, mary can still visit john's page if she wants.
+
+8) Rename the users file.
+Change the name of the slogin_users.txt file to the name you
+configured in the slogin_userstxt variable. (This is not necessary if
+you are using the alternate php user file).
+
+9) Add your users to the users file.
+Open the slogin_users.txt file and start adding your users with the
+following format:
+username, password
+username, password
+username, password
+
+If you are using the alternate php user file, then open
+slogin_users.php and start adding your users with the following
+format (watch the incrementing index number!):
+$slogin_user[1]="testuser";
+$slogin_pass[1]="testpass";
+$slogin_user[2]="mario.valdez";
+$slogin_pass[2]="qwerty";
+$slogin_user[3]="admin";
+$slogin_pass[3]="admin";
+
+(We recommend that you use only alphanumeric characters and don't use
+more than 100 users).
+
+If you are have enabled the use of hashed (encrypted passwords), the
+password stored in the user file should be the MD5 hash. For example,
+the MD5 hash of the word admin (which is the default password of the
+user admin) is 21232f297a57a5a743894a0e4a801fc3. To generate your own
+MD5 hashes you can use slogin_genpass.php script, just enter the
+password in plain text, then copy the result to the user password
+file. (When finishing the installation, you can generate your own MD5
+hashes from the administration script).
+
+10) You are done.
+Test your site. Also check the adminlog.php script from where you can
+see all logins by date. (The adminlog.php script can only be viewed
+by the user named admin).
+
+
+............................................
+  Creating a new website.
+............................................
+
+1) Get the files.
+Get the files from http://www.mariovaldez.net/software/sitefilo/
+(There are zip and tar.gz files available).
+
+2) Unpack.
+Extract the files your website directory or unpack in your local
+drive and upload the files to your webserver.
+
+3) Create a common header and footer.
+If your pages have a coomon look at the beginning and at the end, you
+can save lot of editing the next time you want to change (for
+example) the navigation of your site by moving that HTML code to the
+header.inc.php and footer.inc.php files. Those files will be included
+in all your .php files automatically if you want to. (Those files are
+provided with a minimal of code).
+
+4) Create the pages.
+Use the provided index.php file to create all your pages. Just copy
+the index.php file with other name and start writing your HTML code
+where it says:
+<p>Here goes your content.</p>
+
+There are six variables that can be changed per-page:
+
+* slogin_pagetitle: The title string of the page.
+* slogin_noauthpage: Use 0 to enable authentication in that page, use
+1 to disable authentication.
+* slogin_path: The relative position of the page to the sitefile
+scripts (this is useful for pages in subdirectories).
+* slogin_lang: The language of the SiTeFiLo strings to be used for
+this page (to apply for all pages, set the global configuration).
+* slogin_redirect: The full URL where the user will be sent if login
+here (to apply for all pages, set the global configuration).
+* slogin_logoutredirect: The full URL where the user will be sent
+when logout (to apply for all pages, set the global configuration).
+
+5) Customize the login form (optional).
+You can change the way the login form will look by editing the
+slogin.inc.php file. The file is mostly HTML, just take care of not
+deleting the PHP variables included.
+
+6) Configure.
+Edit the slogin_lib.inc.php file to configure your authentication.
+
+* First change the slogin_default_lang variable to "en", "es", "fr"
+or "de" to change the login messages to English, Spanish, French or
+German. (This setting is a default to be used for the pages that
+don't define it).
+* Change the slogin_default_pagetitle variable to something like "My
+website". (This setting is a default to be used for the pages that
+don't define it).
+* Then change the slogin_userstxt variable to the name of your users
+file. For increased security change the name to something else
+(default name is slog_users.txt), for example: "my_friends_data.txt".
+* For even more security, enable the use of hashed (encrypted)
+passwords changing the slogin_usehashes variable to 1 (this is more
+important if you use the text user file).
+* If your web server has the PHP function fopen disabled, you can
+enable the alternate user php file; just change the
+slogin_canusefopen variable to 0 (it is not necessary to rename the
+slog_users.php file).
+* If you want the users to be redirected to another page once they
+login (for example to a welcome page) then set the
+slogin_default_redirect variable to the full URL of that page, for
+example "http://www.mydomain.com/welcome.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to another page once they
+logout (for example to a goodbye page) then set the
+slogin_default_logoutredirect variable to the full URL of that page,
+for example "http://www.mydomain.com/goodbye.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to special page once they
+login (for example to a personal welcome page for each user) then set
+the slogin_allowuser_redirect variable to 1. This option depends on
+the value of the slogin_default_redirect variable. So, for example,
+if slogin_default_redirect is set to
+"http://www.mydomain.com/private/" then user "mary" will be
+redirected to the URL "http://www.mydomain.com/private/mary" when
+login, user "john" will be redirected to page
+"http://www.mydomain.com/private/john", and so on. Please note that
+this only affects the redirection URL, not the permissions. In these
+examples, mary can still visit john's page if she wants.
+
+7) Rename the users file.
+Change the name of the slogin_users.txt file to the name you
+configured in the slogin_userstxt variable. (This is not necessary if
+you are using the alternate php user file).
+
+8) Add your users to the users file.
+Open the slogin_users.txt file and start adding your users with the
+following format:
+username, password
+username, password
+username, password
+
+If you are using the alternate php user file, then open
+slogin_users.php and start adding your users with the following
+format (watch the incrementing index number!):
+$slogin_user[1]="testuser";
+$slogin_pass[1]="testpass";
+$slogin_user[2]="mario.valdez";
+$slogin_pass[2]="qwerty";
+$slogin_user[3]="admin";
+$slogin_pass[3]="admin";
+
+(We recommend that you use only alphanumeric characters and don't use
+more than 100 users).
+
+If you are have enabled the use of hashed (encrypted passwords), the
+password stored in the user file should be the MD5 hash. For example,
+the MD5 hash of the word admin (which is the default password of the
+user admin) is 21232f297a57a5a743894a0e4a801fc3. To generate your own
+MD5 hashes you can use slogin_genpass.php script, just enter the
+password in plain text, then copy the result to the user password
+file. (When finishing the installation, you can generate your own MD5
+hashes from the administration script).
+
+9) You are done.
+Test your site. Also check the adminlog.php script from where you can
+see all logins by date. (The adminlog.php script can only be viewed
+by the user named admin).
+
+
+=========================================
+* Upgrading 
+  the Simple Text-File Login script.
+
+............................................
+  Upgrading from an older version.
+............................................
+
+1) Get the files.
+Get the files from http://www.mariovaldez.net/software/sitefilo/
+(There are zip and tar.gz files available).
+
+2) Unpack.
+Extract the files your website directory or unpack in your local
+drive. Only upload the following files to your webserver:
+adminlog.php, slogin_lib.inc.php and (optionally) slogin_genpass.php.
+
+3) Configure.
+Edit the slogin_lib.inc.php file to configure your authentication.
+
+* First change the slogin_default_lang variable to "en", "es", "fr"
+or "de" to change the login messages to English, Spanish, French or
+German. (This setting is a default to be used for the pages that
+don't define it).
+* Change the slogin_default_pagetitle variable to something like "My
+website". (This setting is a default to be used for the pages that
+don't define it).
+* Then change the slogin_userstxt variable to the name of your users
+file. For increased security change the name to something else
+(default name is slog_users.txt), for example: "my_friends_data.txt".
+* For even more security, enable the use of hashed (encrypted)
+passwords changing the slogin_usehashes variable to 1 (this is more
+important if you use the text user file).
+* If your web server has the PHP function fopen disabled, you can
+enable the alternate user php file; just change the
+slogin_canusefopen variable to 0 (it is not necessary to rename the
+slog_users.php file).
+* If you want the users to be redirected to another page once they
+login (for example to a welcome page) then set the
+slogin_default_redirect variable to the full URL of that page, for
+example "http://www.mydomain.com/welcome.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to another page once they
+logout (for example to a goodbye page) then set the
+slogin_default_logoutredirect variable to the full URL of that page,
+for example "http://www.mydomain.com/goodbye.php". (This setting is a
+default to be used for the pages that don't define it).
+* If you want the users to be redirected to special page once they
+login (for example to a personal welcome page for each user) then set
+the slogin_allowuser_redirect variable to 1. This option depends on
+the value of the slogin_default_redirect variable. So, for example,
+if slogin_default_redirect is set to
+"http://www.mydomain.com/private/" then user "mary" will be
+redirected to the URL "http://www.mydomain.com/private/mary" when
+login, user "john" will be redirected to page
+"http://www.mydomain.com/private/john", and so on. Please note that
+this only affects the redirection URL, not the permissions. In these
+examples, mary can still visit john's page if she wants.
+
+4) You are done.
+Test your site. Also check the adminlog.php script from where you can
+see all logins by date. (The adminlog.php script can only be viewed
+by the user named admin). 
+
+
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0
+
+iQCVAwUBQ7uKxjpHuYe8JiHtAQH45QQAxC1C4b2nuBDT+i1cq7b50dMEMm6PdKsJ
+HAmwaPbIn0fbcweUfWNXf44UnCP8VJmPLyprzTk5t8+N94jmeD7qWOX8FWb61z0s
+mQg0vu167jbNV1+0C+SO6mi3i8zufFAvywC3hmojlm0liBBbdqv66DQqme/2dWa7
+BqEfFzVnNLE=
+=FPyT
+-----END PGP SIGNATURE-----

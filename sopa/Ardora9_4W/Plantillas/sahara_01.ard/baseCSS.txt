@@ -1,0 +1,100 @@
+/* Created by Ardora http://www.webardora.net */
+*{margin: 0em;padding: 0em;overflow:hidden;}
+a{color: #8DA359;text-decoration: underline;}
+a:hover{text-decoration: none;}
+body{
+	*FFA
+	*BAC=a4.gif
+	*BACPos=top
+	*BACRep=repeat-x
+	*BACCol=#F0E3A4
+	padding:8px;
+	color: #37371E;
+	font-size: 10pt;
+}
+#outer{
+	width:99%;
+	background-color: #FEFEF2;	
+	background-image: url('images/a3.gif');
+	background-repeat: repeat-x;
+	padding: 5px;
+	border-top: solid 1px #ffffff;
+	margin-bottom:5px;
+}
+#outer2{border: dotted 1px #EFEAD1;padding:0;}
+#menuPrincipal{
+	background-color: #6C7424;
+	background-image: url('images/a1.gif');
+	background-repeat: repeat-x;
+	color: #ffffff;
+	height: 1.4em;
+	line-height: 1.4em;
+	padding: 0.8em;
+	border-bottom: solid 1px #ffffff;
+	border-top: solid 1px #6D7B34;
+}
+#menuPrincipal a{color: #ffffff;text-decoration: none;}
+#menuPrincipal a:hover{}
+#menuPrincipal ul{list-style: none;padding: 0em;}
+#menuPrincipal li{display: inline;font-size: 0.9em;font-weight: bold;}
+#menuPrincipal li a{padding: 0.8em;}
+#menuPrincipal li a:hover{
+	background-color: #515815;
+	background-image: url('images/a2.gif');
+	background-repeat: repeat-x;
+	border-left: solid 1px #6D7B34;border-right: solid 1px #6D7B34;
+}
+#header{padding: 0.8em 1.2em 0.8em 1.2em;}
+#header h1{
+	font-size: 3.0em;
+	font-weight: normal;
+	letter-spacing: -0.05em;
+}
+#header h2{
+	position: relative;
+	top: -0.1em;
+	font-size: 0.8em;
+	color: #4F4F2B;
+}
+#content{
+	padding: 5px 0 0 5px;
+	line-height: 2.2em;
+	font-size: 0.9em;
+	position: relative;
+}
+#footer{
+	border-top: dashed 1px #EFEFD6;
+	padding-top: 0;
+	font-size: 1.0em;
+	color: #AFA162;
+	clear: both;
+}
+#areaContido{
+	width: 800px;
+	float: left;
+	position: relative;
+}
+#areaContido p{text-align: justify;color: #4F4F2B;}
+#areaContido h3{
+	font-size: 1.2em;
+	border-bottom: dashed 1px #CECF8F;
+	margin-bottom: 0;
+}
+#menu{width: 145px;float: right;position: relative;margin-right:5px;}
+#menu p{
+	text-align: justify;
+	margin-bottom: 2.0em;
+	color: #4F4F2B;
+	font-size: 1.0em;
+}
+#menu h3{
+	font-size: 1.1em;
+	border-bottom: dashed 1px #CECF8F;
+	margin-bottom: 1.0em;
+}
+#menu ul{
+	list-style: none;
+	line-height: 2.0em;
+	margin-bottom: 1.0em;
+}
+#menu li{border-bottom: dashed 1px #EFEFD6;}

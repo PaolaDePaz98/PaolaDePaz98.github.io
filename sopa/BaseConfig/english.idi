@@ -1,0 +1,681 @@
+﻿&File
+E&xit
+&Language
+Exit Ardora
+Loading application...
+&New activity
+&Graphical panel
+&Word search
+Word &building
+Give name to the selected items in a graphic
+This activity allows you:
+Creation
+Choose the image
+Double click on graphic to select points
+Write a statement for the activity
+Check the true result:
+Save the activity
+Publish the activity
+An image already exits. Do you want to choose a new one?, this conveys that the created points will be deleted
+Word
+The image you are trying to open may be too large, please reduce the image size (max 600x460) and try it again
+Enter the word:
+Cancel
+Accept
+Delete the word
+To delete a word, choose a cell with data
+Do you really want to delete the word?
+With the help of the graphical panel the student must relate the selected points in the graphic to the word you assign
+Help
+Properties
+Points colours:
+Answer surrounding:
+Students:
+Publish:
+Limit by time
+Show attempts and successes
+Evaluate
+Answer method: #Selecting word#Writing word (upon the point)#Writing word (indicating with an arrow).
+Adressee: #All students#Just selected students
+Allow printing
+&Utilities
+&Configurate Ardora
+Initial configuration of the application
+language:#Galician#Spanish#Catalonian#Basque#Portuguese PT#English#French#Aragonese#Porutguese BR#Russian#Romanian#Bable#Italiano.
+Close
+Save
+Error while saving the file
+Activity not saved
+When time finishes: #Stop#Start again#Show answers
+Finish after ...
+Mistakes
+ATTEMPTS:
+SUCCESSES:
+POINTS:
+TIME:
+White#Blue#Yellow#Black#Pink#Brown#Violet#Grey#Green
+White#Blue#Yellow#Black#Pink#Brown#Violet#Grey#Green
+Save as ...
+The activity was not saved, do you want to exit Ardora without saving it?
+You must choose a graphic in the creation box.
+Author:
+Kind of publication: #Simple publication#Publication in server
+Characteristics of the window in the navigator
+Title of the window:
+Insert navigation bar
+Heading dividing line
+View
+O&pen
+The activity was not saved, do you want to open an activity without  being saved?
+Error while opening the activity
+Pu&zzle
+Open a saved activity
+Puzzle
+Create a puzzle
+The student will have to interchange the different images to form the correct one
+About the puzzle
+Select number of rows and columns:
+Rows:
+Columns:
+&Help
+&See help
+&E-mail the author
+About ...
+Close activity
+The student will have to find in a word search the words you have entered
+Double click on the table to enter the words
+Word search
+Create word search
+Word
+Definition
+The word must be at least three letters
+The word can't have any empty spaces
+Write a statement for the activity
+Answer method: #With a list of the words they have to search #With definitions of the words they have to search#Without any help.
+&Units of measurement
+&Euros
+&Clocks
+Cross&words
+Pyramids
+&Word games
+&Activities with graphic
+&Calculation
+W O R D S:
+D E F I N I T I O N S:
+Count coins
+Euros - Count coins
+Represent with coins amounts smaller than 5 euros
+The student will have to choose the  necessary coins for the  indicated amount or  write the amount
+Choose the way to generate the amounts:
+#Specific#Randomly.
+Answer method: #Selecting coins or bills#Writing the amount.
+Right
+COINS
+Try again
+Enter an amount greater than 0
+Count &bills
+Euros - Count bills
+Represent with bills amounts smaller than 880 euros
+The student will have to choose the necessary bills for the indicated amount or  write the amount
+The amount must be a multiple of 5 and equal or smaller than 880
+BILLS
+Clocks
+Rewrite the time in an analogical or digital watch
+The student will have to set an analogical or digital watch in the right time
+Insert the time and its expression
+Answer method: #Analogical#Digital#Analogical and digital
+Save publish the activity
+&Associate
+Associate word pairs
+Double click on the table to add
+Left
+Right
+Enter the two words
+C&lassify
+&Words
+Classify words
+Group words in 2 or 3 sets
+Insert the group criteria
+Double clic on the table to add
+You must insert al least the first two group criteria
+Words
+Associate words
+Find out word pairs
+You must write complete pairs (on the right and on the left)
+Answer method: #Joining with arrows #Memory game.
+&Complete
+Words with &syllables
+Complete words
+Choose the right syllable for a word
+If an error occurs... #Don't show any message #Show message
+Right
+Options
+Insert a hyphen "-"  in the word replacing the syllable
+You must insert a hyphen in the place which was occupied by the syllable
+You must insert the right syllable and at least one more possible option
+Accept
+&Images
+Classify images
+Group images in 2 or 3 sets
+You must insert at least the first two classification criteria
+Images
+Activity data
+Select the options of time and apect
+Choose the answer method for the activity
+Save activity
+Save as ...
+Publish activity
+See activity
+The image you are trying to insert may be too large, please reduce it to a size smaller than 600X150pixels
+Classification criterion
+You must select the criterion and/or the word image
+&Diagrams
+Diagrams
+Make diagrams until four levels of depth
+Number of order
+Concept
+Number of order
+Concept
+Enter the concepts of the diagram
+Use only numbers separated by dots, for example 1 for the first section and 1.1 for the first subparagraph
+You must enter the number of order and/or the concept
+A concept with the same number of order you have just entered already exists
+It does not exist a preceding number of order that this concept can depend on
+Font size
+Show the answer directly
+Tangram
+Tangram
+Make different images with the pieces of the tangram
+Double clic on grid (locate pieces)
+With lines in model
+With answer guides
+Answer method: #Free figures #Make a model.
+Activities with sounds
+Distinguish sounds
+Text Dictation
+Distinguish sounds
+Identify the letters that represent a sound
+Associate sound-image/s
+&Tools
+Sound recorder
+Crosswords
+Solve crosswords
+Rows:
+Columns:
+Enter number of rows and columns
+Complete the crossword >>>
+Double-click on table for defintions
+Writing direction
+Across
+Down
+&Colour
+Colour
+Colour a picture
+Answer method: #Free colouring#Colouring according to the legend
+Enter the legend and colour
+Numeric puzzle
+Numeric puzzle with operations
+Choose complete mathematical operations
+Operation
+Enter the operations
+Operation
+Numbers snake
+Numbers snake
+Find calculations
+Start
+Choose options and number of "lives"
+Number of lives
+Lives
+Ardora has created the files:
+Execute this last one to have access to the activity
+Remember that both files have to be in the same folder
+Double click on table to add
+Do you really want to remove the file?
+The image exceeds 100X100 pixels, reduce it and try it again
+You must insert the right word and , at least, one more option
+Word
+Sound File
+Image file
+Word
+Image file
+Word
+Image file
+Word
+Image file
+First option
+Second option
+Third option
+Do you really want to delete?
+Choose method
+Answer method: #Text #Image #Text + image
+At least one of the words has no associated image, impossible to change method
+You must select a sound file
+Text Dictation
+Write the sounds you hear
+Choose the sound file and write the right text
+Right text
+&Order
+&Sentences
+Order
+Order the words in a sentence or series
+Double-click to enter data
+Sentences / Series
+Hint / Question
+Answer method: #With any help #Highlighting the wrong words
+Enter the sentence/series to be ordered (the question/hint is optional)
+The image you are trying to load may be too large, please reduce it to a size smaller than 175X175 pixels
+Texts with words (selected)
+Complete
+Complete a text with words which are selected from a list
+Text
+Answer method: #indicating alternatives to every word #All the words are an alternative
+Alternatives
+Enclose the word you wish to hide with the characters "$"
+There is not a pair number of "$" to determine the words you want to hide. Ex: The femur is a $bone$ (bone is hidden)
+Do you really want to eliminate the whole text and the changes done?
+Messages
+Website
+Congratulation
+Time limit
+Limit of attempts
+Bonus successes
+3.- Website
+1.- Activity
+2.- Execution options
+Choose the aspect of the website which contains the activity
+Font
+Size
+Bold
+Italic
+Activity position: #Left #Centre #Right.
+Heading position: #Left #Centre #Right #Justified.
+Separation line activity/author
+Text with words (writing)
+Complete a text writing the words
+Other valid solutions
+Aspect of help
+Font size
+Aspect of the activity
+Font Size
+Test
+Test
+Create test of indicated answer
+Question
+Right
+Wrong
+Error message
+Answering order: #In order #Randomly.
+Question
+Answer
+Error message
+Messages
+Save
+Save as
+Paragraphs
+Order paragraphs
+Arrange the paragraphs/sentences so that they have a logical sense
+Write the paragraphs/sentences in the order they should be
+Colours
+Background
+Selection
+Buttons
+Font
+Activity summary
+Images
+Order images
+Arrange a sequence of images
+The image you are trying to load may be too large, please reduce it to 150x150 pixels
+Insert activity summary
+Sentences
+Associate sentences
+Match sentences or expressions according to a criterion
+You must specify both the left sentence and the right one, or leave both empty
+Aspect of the messages
+Ardora is not translated into this language yet. If you are interested in translating it (very easy), please get in touch with the author
+Image - Sentence
+Associate image - sentence
+Match an image with a sentence or paragraph
+The image you are trying to load may be too large, please reduce it to a size smaller than 200X200 pixels
+You must specify image and sentence or leave both empty
+Colour according to legend
+Colour according to legend
+Colour a graphic according to a legend
+Text in legend
+Text in graphic
+Colour
+Choose the colour in the former legends and click on the image
+Insert legend in image
+Choose the legend in the image #The same as the main legend #Another one.
+Font size in image
+Delete the last colour
+There is not colour to select, double click on legend table to add/modify any colour/legend
+First of all, you must load a graphic clicking on the button of point 1
+There are intermediate legends without any definition of colour. You can define from 1 to 10 legends and colours, but you can't leave any space
+A colour has already been assigned to this zone, you must delete it and reassign the colour again
+Image - Image
+Associate Image - Image
+Match images which have a relation
+You must specify each one of the pair of images which form the activity on the left and on the right
+Symmetries, translations and rotations
+Symmetries, translations and simple rotations
+From a simple picture, a symmetry, a translation or a rotation must be done
+Options: #Symmetry #Translation #Rotation.
+Check answer: #Manual #Automatic.
+See activity
+Publish activity
+Geoplane
+Geoplanes
+Choose the different parameters for the activity
+Carry out several activities about geometry
+Kind of geoplane : #Square #Triangular
+Kind of activity: #Free #Conditioned.
+Geometry
+Show:
+Number of sides
+Number of vertices
+Perimeter
+Area
+Colour surface
+Label
+Units
+Conditions:
+Number of sides =
+Perimeter =
+Area =
+NOTE: Ardora doesn't carry out any verification prior to the activity, in order to check if a polygon which complies with the inserted conditions already exists
+Insert number of vertice
+Start Button
+Use only numbers and the dot for the decimals (2 maximum)
+Regular figure =
+-------------#Equilateral triangle#Isosceles triangle#Scalene triangle#Acute triangle#Right triangle#Obtuse triangle#Square#Rectangle#Rhomboid#Rhombus#Trapeze.
+When time finishes: #Stop #Try again.
+Ardora has detected an IE window open and It has been closed; Remember that to see the possible changes about an activity you must close any other window in the browser.
+Word search size
+Activity size
+Destination
+New window#Same window#Parent window.
+New window#Same window#Parent window.
+Write the congratulation message that will appear when the activity is solved completely. You can leave it empty and/or introduce in the URL the address of the file to be shown.
+If the html, PDF … file you want to be shown is in an internet site different from the one which contains the activity, begin with "http: / / ", otherwise just write the access route to the file.
+WARNING: If you write the file route, this functionality is not executed correctly in "view activity" (“eye” button), publish the activity and execute the created htm to check.
+Write the message that will appear just in case that you limit the time for the activity and that this time is over before a right answer is given.
+New window#Same window#Parent window
+New window#Same window#Parent window.
+Write the message that will appear in case the maximum number of failures is exceeded.
+Enter the message that will appear in case of a wrong answer
+Ignore upper-case/lower-case letters
+Make an activity compatible with SCORM 1.2
+If the activity was solved successfully: #It can be done again #It can't be done again.
+Localization inside the course
+Score
+If the activity concluded incorrectly: #It ca be done again #It can't be done again.
+For every right answer
+For every wrong answer
+Width text area
+Create a pack SCORM 1.2 to be imported by LMS programs
+Course title
+1.- Course
+2.- Containers
+3.- Activities
+4.- Create SCORM pack
+Identifier (start with a letter)
+Version
+Description
+Key word
+You must specify the course's name and identifier
+You must specify at least one container
+You must specify title, identifier and files where the activity is included
+Identifier as objective.
+# The score is kept  # Your score is ...
+# The score is kept  # The score is placed to zero.
+You have just created an activity compatible with SCORM 1.2; in order to incorporate this activity to an LMS (Moodle, Dokeos) you must go to Utilities - SCORM and create a pack.
+Activity
+Memory game
+Find out word/image pairs
+Delay in attempts
+Allow keyboard
+Album
+Answer method: # Set text   #Set image #Write text  #Set text and image in the right order.
+You must specify a name and an image for the line:
+Match word – image, identify images, order images
+Hangman
+Hangman game
+Answer method : #Traditional  #Ordering the letters in a word.
+Ardora’s package of activities
+Create a navigation system through activities
+1- Choose the activities
+2- Insert general data
+3- Create the package
+Title
+Footer
+Main Menu
+Insert the data
+Side menu
+Create first page with link to all the activities
+N.
+File
+Link. Act.
+Nex/Pri
+Au. Adv.
+Select all
+You must specify, at least, a description and a file for the activity
+Text in the first index page
+Pages title
+Link
+There’s a link without a URL or a URL without a link
+Header
+Subtitle
+Centre activity window
+Window size: #800x600 #1024x768.
+First letters for the files’ name
+Topic
+Create Ardora’s package of activities
+Header for the links to other activities
+Set close button in the activities
+Close button functions #Close the window #Send to.
+Help button’s label
+Close button’s label
+You must specify the folder where the package will be created.(Destination)
+Self adjust the activities width
+M.M.
+S.M.
+Select
+Words in a paragraph
+You must specify the characteristic of the word group
+You must insert a text or a sentence
+It can’t be found in the text, insert one that matches exactly with one from the text.
+It is already written twice at least, delete an entry of this word.
+Words. The text exceeds 100 or more words, eliminate words and try again.
+Checkerboard
+Find out a hidden text by means of word definitions
+Highlight wrong letters
+Right if … #paragraph and definitions are right #paragraph is right
+Tildes are not allowed in this activity.
+Number crossword
+Creating crosswords with mathematical operations
+Results
+Numbers
+Operations
+#Hide numbers  #Hide operations   #Select cells to be hidden.
+Hidden cell
+The division can't be done with these quantities, because you'll get a division by zero. Change the divisor and try again.
+Movable columns
+Put a text in the right order by moving rows or columns in a grid
+#Move rows    #Move columns   #Move rows and columns
+Tables
+Complete table cells
+Cell content: #Text    #Tick    #Select.
+First cell
+Picture points
+Click on the image to delimit the zone
+Double click to "close" the zone
+Word in the graphic
+Gather with
+This zone can't be deleted. There are zones which are gathered together with it
+Draw zone when answering correctly
+Word to be corrected
+Edit only the selected words
+If you select "Edit only the selected words" you can't insert two or more words as correct instead of a word. Correct the sentence:
+Insert "Next" button
+Statistical graphics
+Line graph and bar graph
+X asis
+Y asis
+Items
+Chart type: #Line graph    #Bar graph.
+Activity type: #Established    #Open     #Insert data     #Adjust graph   #Adjust data and graph.
+Start in:
+Number of divisions
+Insert data into the graph
+View data table
+The value doesn't fit with the fixed Y axis values. Change it and try again
+Pie charts
+The inserted values will imply proportions difficult to be seen on screen. Reduce the values or increase the increment
+Insert %
+Value
+Text with words (drag and drop)
+Waiting period in messages
+1 - 1
+Several - Several
+# Write data # Match cells.
+Initial setting: #Randomly  #Fixed, similar to that designed.
+Count money
+Choose the currency and the number of units to work with
+#Coins  #Notes.
+Show / Write: #Full quantity (ex. 4,05 €) #Units and decimals (ex. 4 €  and 5 cents.) #Both of them  #None of them (Only for “open”).
+Accept as a right answer: #Any valid answer  #The answer which uses the least number of coins and / or notes
+Answer method: #Choosing the notes or coins #Writing the quantity  #Open.
+Show coins and/or notes: #From bigger to smaller #Randomly.
+pixels
+Insert the box name and its identifier (It must start with a letter)
+Choose box (container):
+Insert the activity name, its identifier (it must start with a letter) and specify the files forming part of it
+New multimedia web page
+Image gallery
+1.- Content
+2.- Web page
+miniature size
+image size
+Right click and "paste" the code
+Miniature
+Width
+Visible area
+Image
+Text and images
+Page size
+Player
+Image
+Video file
+Interactive panoramic viewer
+When clicking, open ... #URL #Image #Ardora activites #Ardora multimedia # Ardora's package of activities #html, pdf, jpg ...#Server Ardora.
+Position
+width
+height
+Starting position
+Speed delay
+Label must have a value (compulsory)
+Climogram
+Months space
+Values sapace
+Mobile items
+Tabs / Accordion panel
+Type: #Horizontal tabs #Vertical tabs #Accordion.
+Web sites
+Drop down menu
+windows
+Target : #New window #Pop-up #Same window#Dialog window.
+Page structure
+Aspect
+Autofit
+Central space
+Graph menu
+#Linear #Drop down
+Custom
+Template
+Copy data from theme
+Initial content
+Sounds
+New page within a server
+User management
+Collective annotations
+Collective album
+Chat
+Votes
+Word processor
+Full name
+Coordinator
+Username
+Password
+A user already exists with that name, please enter another one.
+Teaching staff
+Course
+Group
+Invalid username/password
+Comment
+Date
+Path to local server
+Containing folder name
+Margin
+Sort by: #Keyword #Date #Author.
+Maximum
+Board
+Timeline
+Comments system
+Private
+File manager
+Shared
+Directory
+Folder
+Information
+Aut. Re.
+Self-assessesment
+Executions
+State
+Start
+End
+Poster
+Single
+Workspace
+Delete
+Draw
+Update
+Book
+Page
+Whitepage
+Cover
+Replace
+Wrong name
+Heading
+Increase
+Form
+Text area
+Editable
+User
+Total
+Library
+Notes
+Classroom
+To view this content you need to specify in the Utilities menu-Setting a path to a server. See the program's help.
+The elements in this image lack an identifier. Please,  open it with Inkscape, save it with another name and try again.
+Action name
+Enter action
+Action
+Element
+Exclude
+Movement
+Letters
+Play only
+Add
+Maze
+You really want to add all the activities contained in
+Calculator
+Pentomino
+Activate
+Move
+Go to the first unresolved activity.
+Recording
+Recorder
+Recorded
+Uploading files
+Configuring
+Wordmaster

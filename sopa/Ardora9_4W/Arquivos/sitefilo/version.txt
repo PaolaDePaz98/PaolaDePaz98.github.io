@@ -1,0 +1,225 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+Simple Text-File Login script (SiTeFiLo).
+Copyright ©2004,2005,2006 by Mario A. Valdez-Ramirez
+(mario@mariovaldez.org). 
+(Read the license.txt file for details).
+
+
+This is version 1.0.6.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Summary of this release (1.0.6):
+
+* Per-user login redirections.
+* Option to edit on-line the passwords file.
+* Option to backup the passwords file.
+* Logging of user logouts.
+* Configurable admin username.
+* Usernames can be email addresses.
+* Some bug fixes.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.6, 2006/01/04:
+
+Added example link to the administration page in the index.php script
+file.
+
+Added example user (with email as username) to slog_users.txt and
+slog_users.php example files.
+
+Updated all copyright notices to add the current (2006) year.
+
+Added new slogin_allowuser_redirect configuration variable to
+slogin_lib.inc.php file, to set/unset the per-user postlogin
+redirection. If enabled, the user is redirected after login to a
+subdirectory named as his/her username appended to the
+slogin_default_redirect redirection URL. This fixes Bug #304.
+
+Added new configuration constant to slogin_lib.inc.php script
+(SLOGIN_ADMIN_USERNAME) to set the username of the administrator
+user. Previously, the user was hardcoded as "admin". Added supporting
+code to adminlog.php file. This fixes Bug #305.
+
+Modified the code in slogin_lib.inc.php that get the username and
+password from POSTed variables so that it can accept the "at" symbol
+(@) so that usernames can be email addresses. This fixes Bug #303.
+
+Modified authentication code block in slogin_lib.inc.php so that the
+admin user is not redirected after login or after logout. Previously,
+the admin user was also redirected as a normal user. This fixes Bug
+#306.
+
+Modified function fslogin_show_logs in slogin_lib.inc.php script file
+to display the file size (in kb) of each log file. This fixes Bug
+#307.
+
+Added new function fslogin_show_baks to slogin_lib.inc.php script to
+display a list of compressed backup user-files (linked for download
+and with a deletion button). This is part of the fix of Bug #310.
+
+Added new function fslogin_norm_poststring to slogin_lib.inc.php
+script to space-trim and delete escaping-slashes from a given string.
+To be used to clean up received strings from forms.
+
+Added new function fslogin_norm_filename to slogin_lib.inc.php script
+to clean up received filenames from forms. This is part of the fix of
+Bug #310 and Bug #308.
+
+Added new function fslogin_remove_accents to slogin_lib.inc.php
+script to convert accented characters to ASCII ones. To be used to
+clean up received filenames from forms. This is part of the fix of
+Bug #310 and Bug #308.
+
+Added new function fslogin_gzip_file to slogin_lib.inc.php script to
+compress a given file. To be used to create backup copies of the user
+files. This is part of the fix of Bug #310.
+
+Added new function fslogin_del_file to slogin_lib.inc.php script to
+delete a given file. To be used to delete backup copies of the user
+files. This is part of the fix of Bug #310.
+
+Added code to adminlog.php script file to: list, edit, save, compress
+the password files; and list, delete the backed up password files.
+This fixes Bug #308 and Bug #310.
+
+Added code to adminlog.php to convert clear text to MD5 hashes
+(available also while editing the password file), only if MD5 hashes
+are enabled by the configuration. This fixes Bug #309.
+
+Deleted code from slogin_lib.inc.php regarding a "login" GET variable
+which is no longer used.
+
+Added code to slogin_lib.inc.php to record in the log also when the
+user logout. This fixes Bug #152.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.5, 2005/06/23:
+
+Added German language strings contributed by Anja Pregowski
+(pregoanj@zhwin.ch).
+
+Added support for after-logout redirection (after logout, the user is
+redirected to another page).
+
+Added some missing variables in the adminlog.php page (in the showcfg
+block).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.4, 2005/06/17:
+
+Added default language option, so individual pages can have their own
+language (defined by the per-page slogin_lang variable).
+
+Added default page title, to be used in case the including php page
+don't define one.
+
+Added support for after-login redirection (after login in, the user
+is redirected to another page).
+
+Added sanitizing code for user variables.
+
+Added French language strings contributed by Christophe Helson
+(christophe.helson@free.fr).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.3, 2004/12/25:
+
+Added support for pages on directories. Previously, we only supported
+pages on the same directory. Now all pages can be on different
+subdirectories. A global variable ($slogin_path) is set per-page to
+define the relative position of the include files (if unset, the
+script assumes al includes are in the current dir).
+
+Fixed a bug that prevented the listing of log files in adminlog.php
+if configuration variable slogin_canusefopen was set.
+
+Added option to adminlog.php to show the current PHP configuration
+(only available if logged as the admin user).
+
+Added option to adminlog.php to show the current SiTeFiLo
+configuration (only available if logged as the admin user).
+
+Added simple navigation to adminlog.php.
+
+Added missing title page to adminlog.php.
+
+Added license text to slogin_genpass.php.
+
+Added missing source-code comments in slogin_lib.inc.php.
+
+Fixed bug in function fslogin_show_logs in slogin_lib.inc.php where
+variable slogin_php_self was not set (was not included in the
+function scope).
+
+Added return value to function fslogin_show_logs in
+slogin_lib.inc.php with the total number of log files listed.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.2, 2004/10/11:
+
+Added support for MD5 hashed (encrypted) passwords in function
+fslogin_check_user in slogin_lib.inc.php. Added new configuration
+variable slogin_usehashes to slogin_lib.inc.php.
+
+Added example users to slog_users.txt and slog_users.php files with
+MD5 hashed passwords.
+
+Created new script slogin_genpass.php to generate MD5 hashes from a
+given string. To be used to generate MD5 hashes.
+
+Added preset value for username field in slogin.inc.php so that the
+username field is prefilled with the latest tried username.
+
+Added lenght verification for POST and SESSION data, to improve
+security.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.1, 2004/07/28:
+
+Added alternative users file (slog_users.php) to use when fopen is
+disabled.
+
+Added verifications to slogin_lib.inc.php to check if fopen was
+succesful or not (when reading the user file or writing to the logs).
+
+Added checks to adminlog.php for user identity (only admin can see
+the logs) and if we can use fopen or not. If we are not using fopen
+we can't show the logs, as there are not logs to show anyway.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.0.0, 2004/07/14:
+
+Initial release.
+
+
+
+
+
+
+
+
+
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 8.0
+
+iQCVAwUBQ7uJ4TpHuYe8JiHtAQExsAQAiwUKQj+vNv2SO7FZMMNudw2bvz0aTzgh
+1PNmV4Pb0rirIa0A0gw8tkUhALqfCuY2oaxhxkNJEvUAnxorxsArCLceLZ+4SL0d
+uqATWh9X7LKGzCL7M0F08Oju1DBXBXOAQ+k2Anrnc8gMBmylje6pHiLlL7LwQq1l
+gNalrtWAgwY=
+=WFHR
+-----END PGP SIGNATURE-----

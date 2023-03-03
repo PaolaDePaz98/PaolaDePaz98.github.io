@@ -1,0 +1,681 @@
+﻿&Fichier
+Qu&itter
+&Langue
+Quitter Ardora
+Téléchargement application...
+&Nouvelle activité
+&Graphique
+&Mots cachés
+&Construction de mots
+Mettre un nom aux éléments sélectionnés dans un graphique
+Cette activité vous permet:
+Création
+Choisissez le graphique
+Cliquez deux fois sur le graphique pour sélectionner les points
+Écrivez l'énoncé de l'activité
+Vérifiez le résultat réel:
+Enregistrez l'activité
+Publiez l'activité
+Il existe déjà une image. Vous voulez en choisir une autre? Cela implique la suppression des possibles points créés.
+Mot
+L'image que vous voulez ouvrir est trop grande. Diminuez-la (max. 600x460) et essayez de nouveau, s'il vous plaît.
+Introduisez le mot:
+Annuler
+Valider
+Supprimer le mot
+Pour supprimer un mot, choisissez une cellule avec des données
+Vous voulez vraiment supprimer le mot ?
+Au moyen du graphique, l'élève doit relier les points sélectionnés dans le graphique avec le mot attribué à chacun des points.
+Aide
+Propriétés
+Couleurs des points:
+Environnement de solution:
+Élèves:
+Publier:
+Limiter dans le temps
+Montrer essais et résultats positifs
+Mettre une note
+Méthode de solution: #En choisissant le mot #En écrivant le mot (au dessus le point) #En écrivant le mot à l'aide de flèches).
+Destinataires: #Tous #Seulement les élèves sélectionnés
+Permettre d'imprimer
+&Utilités
+&Configurer Ardora
+Configuration initiale de l'application.
+Langue:#Galicien #Espagnol #Catalan #Basque #Portugais PT #Anglais #Français #Aragonais #Portugais BR #Russe #Roumain #Asturien#Italiano.
+Fermer
+Enregistrer
+Erreur enregistrement du fichier
+Activité sans enregistrer
+Le temps écoulé: #Arrêter #Recommencer #Montrer la réponse.
+Finir après...
+Erreurs
+ESSAIS:
+RÉSULTATS POSITIFS:
+POINTS:
+TEMPS:
+Blanc#Bleu#Jaune#Noir#Rose#Marron#Violet#Gris#Vert
+Blanc#Bleu#Jaune#Noir#Rose#Marron#Violet#Gris#Vert
+Enregistrer sur...
+L'activité n'a pas été enregistrée. Vous voulez quitter Ardora sans l'enregister?
+Vous devez choisir un graphique dans l'onglet de création
+Auteur/e:
+Type de publication: #Publication simple#Publication dans serveur.
+Caractéristiques de la fenêtre dans le navigateur:
+Titre de fenêtre:
+Mettre une barre de navigation
+Ligne de séparation énoncé/act.
+Montrer
+O&uvrir
+L'activité n'a pas été enregistrée. Vous voulez ouvrir une activité sans l'enregister ?
+Erreur à ouvrir l'activité
+Pu&zzle
+Ouvrir l'activité enregistrée
+Puzzle
+Créer un puzzle
+L'élève devra échanger les différentes images pour former l'image correcte.
+Sur le puzzle
+Choisissez le nombre de rangs et de colonnes:
+Rangs:
+Colonnes:
+A&ide
+&Montrer Aide
+&Courrier électronique à l'auteur
+Sur...
+Fermer l'activité
+L'élève devra trouver les mots introduits dans les mots cachés
+Cliquez deux fois sur le tableau pour introduire le mots.
+Mots cachés
+Créer un mots cachés
+Mot
+Définition
+Le mot doit avoir minimum trois lettres
+Le mot ne peut avoir espaces vides
+Écrivez l'énoncé de l'activité
+Méthode de solution: #Avec une liste de mots à chercher #Avec des définitions des mots à chercher #Sans aucune aide.
+&Unités de mesure
+&Euros
+&Montres
+Mots&croisés
+Pyramides
+&Jeux de mots
+&Activités avec graphiques
+&Calcul
+MOTS:
+DÉFINITIONS:
+Compter des monnaies
+Euros - Compter des monnaies
+Représenter avec des monnaies des quantités inférieures à 5 euros
+L'élève doit choisir les monnaies nécessaires pour la quantité indiquée ou écrire la quantité
+Choisissez la façon de créer les quantités:
+#Spécifiques #D'une façon aléatoire.
+Méthode de solution:·#En choisissant les monnaies ou les billets#En écrivant la quantité.
+Correct
+MONNAIES
+Essayez de nouveau
+Introduisez minimum une quantité majeure à 0.
+Compter &des billets
+Euros - Compter des billets
+Répresenter avec des billets des quantités inférieures à 880 euros
+L'élève doit choisir les billets nécessaires pour la quantité montrée ou écrire la quantité
+La quantité introduite doit être multiple de 5 et égal ou inférieur à 880
+BILLETS
+Montres
+Mettre à l'heure indiquée une montre analogique et/ou digitale
+L'élève doit "mettre à l'heure" une montre analogique et/ou digitale.
+Introduisez les heures et leur expression.
+Méthode de solution: #Analogique #Digitale #Analogique et digitale.
+Enregistrez et publiez l'activité
+&Relier
+&Relier des paires de mots
+Cliquez deux fois sur le tableau pour ajouter
+Gauche
+Droite
+Introduisez les deux mots
+C&lasser
+&Mots
+Classer des mots
+&Regrouper des mots en 2 ou 3 ensembles
+Introduisez les critères de groupement
+Cliquez deux fois sur le tableau pour ajouter
+Vous devez introduire au moins les deux premiers critères de groupement
+Mots
+Relier des mots
+Découvrir des paires de mots
+Vous devez écrire des paires complètes (à droite et à gauche)
+Méthode de solution: #En reliant par flèches #Jeu de memoire.
+&Compléter
+Mots avec &des syllabes
+Compléter des mots
+Choisir la syllabe correcte pour un mot.
+Si une erreur se produit... #Ne montrer aucun message #Montrer un message.
+Correcte
+Opt.
+Introduisez dans le mot un tiret "-" au lieu de la syllabe
+Vous devez introduire un tiret dans le lieu occupé dans le mot pour la syllabe
+vous devez introduire la syllabe correcte et minimum un option possible.
+Valider
+&Images
+Classer des images
+Regrouper des images en 2 ou 3 ensembles
+Vous devez introduire au moins les deux premiers critères de classification
+Images
+Données de l'activité
+Choisissez les choix de temps et d'aspect
+Choisissez la méthode de solution de l'activité
+Enregistrer l'activité
+Enregistrer sur..
+Publier l'activité
+Montrer l'activité
+L'image que vous voulez introduire est trop grande. Diminuez-la à moins de 600X150 pixels, s'il vous plaît
+Critère de classification
+Vous devez choisir le critère et/ou l'image du mot
+&Schémas
+Schémas
+Créer des schémas maximum quatre niveaux de profondeur
+Nº ordre
+Concept
+Nº ordre
+Concept
+Introduisez les concepts du schéma
+Utilisez simplement des nombres séparés par des points; par exemple, 1 pour le premier alinéa et 1.1. pour le premier sous-alinéa du premier alinéa.
+Vous devez introduire le numéro d'odre et/ou le concept.
+Il existe déjà un concept avec le même numéro d'ordre que vous venez d'introduire.
+Il n'existe pas de numéro d'ordre précédent duquel ce concept puisse dépendre.
+Taille de font
+Montrer la solution directement
+Tangram
+Tangram
+Réaliser des formes différentes avec les pièces du tangram
+Cliquez deux fois dans la grille (placer des pièces)
+Avec des lignes en modèle
+Avec des guides solution
+Méthode de solution: #Figures libres Créer un modèle.
+Activités avec des sons
+Distinguer des sons
+Auto-dictées
+Distinguer des sons
+Reconnaître la graphie du son écouté
+Relier son-imagen(s)
+&Outils
+Magnétophone de son
+Mots croisés
+Résoudre des mots croisés
+Rangs:
+Colonnes:
+Introduisez les nombres de rangs et de colonnes
+Cacher les mots croisés >>>
+Cliquez deux fois sur le tableau pour les définitions
+Sens de l'écriture
+Horizontales
+Verticales
+&Colorier
+Colorier
+Colorier une image
+Méthode de solution: #Peinture libre #Peinture selon légende.
+Introduisez la légende et coloriez
+Puzzle numérique
+Puzzle numérique d'opérations
+Choisissez des opérations mathématiques complètes
+Opération
+Introduisez les opérations
+Opération
+Le serpent des nombres
+Le serpent des nombres
+Trouvez les résultats de comptes
+Commencer
+Choisissez des options et des nombres de "vies".
+Nº de vies
+Vies
+Ardora a créé les fichiers:
+Exécutez ce dernier pour accéder à l'activité.
+Rappelez que ces deux fichiers doivent être dans le même dossier.
+Cliquez deux fois dans le tableau pour ajouter:
+Voulez-vous vraiment supprimer le fichier ?
+L'image dépasse les 100x100 pixels. Diminuez-la et essayez de nouveau.
+Vous devez introduire le mot correct et minimum, une option.
+Mot
+Fichier son
+Fichier image
+Mot
+Fichier image
+Mot
+Fichier image
+Mot
+Fichier image
+1ère option
+2e option
+3e option
+Voulez-vous vraiment supprimer?
+Choisissez la méthode
+Méthode de solution: #Texte #Image #Texte + image.
+Au moins un des mots n'a pas d'image associée. Impossible de changer de méthode.
+Vous devez choisir un fichier de son.
+Auto-dictées
+Écrire les sons écoutés
+Choisissez le fichier de son et écrivez le texte correct
+Texte correct
+&Trier
+&Phrases
+Trier
+Trier les mots d'une phrase ou d'une érie
+Cliquez deux fois pour introduire des données
+Phrases / Séries
+Clé / Question
+Méthode de solution: #Sans aide #En soulignant les mots mal placés.
+Introduisez la phrase/série à trier (la question/clé est optionnelle)
+L'image que vous voulez introduire est trop grande. Diminuez-la à une taille inférieure à 175x175 pixel, s'il vous plaît
+Textes avec de mots (sélectionné)
+Compléter
+Compléter un texte avec des mots sélectionnés d'une liste
+Texte
+Méthode de solution: #En indiquant les options à chaque mot #Tous les mots sont optionnels.
+Options
+Écrivez entre caractères "$" le mot que vous souhaitez cacher
+Il n'y a pas de numéro pair de "$" pour déterminer les mots que vous voulez cacher. Ex. Le fémur est un $os$. (On cache "os").
+Voulez-vous vraiment supprimer le texte et les options introduites?
+Messages
+Page web
+Félicitation
+L. Temps
+L. Essais
+Gratification
+3.- Page web
+1.- Activité
+2.- Options d'exécution
+Choisissez l'aspect de la page web qui contient l'activité
+Font
+Taille
+Caractère gras
+Italique
+Situation de l'activité: #Gauche #Centre #Droite.
+Situation de l'énoncé: #Gauche #Centre #Droite #Justifié.
+Ligne de séparation act./auteur.
+Textes avec des mots (En écrivant)
+Compléter un texte en écrivant les mots.
+D'autres solutions possibles
+Aspect de l'aide
+Taille de font
+Aspect de l'activité
+Taille de font
+Test
+Test
+Créer un test de réponse indiquée
+Question
+Correctes
+Incorrectes
+Message erreur
+Ordre de réponse: #En ordre #D'une façon aléatoire.
+Question
+Réponse
+Mess. Erreur
+Messages
+Enregistrer
+Enregistrer sur
+Paragraphes
+Trier des paragraphes
+Mettre en ordre des paragraphes/phrases pour avoir un sens logique
+Écrivez les paragraphes/phrases dans l'ordre qui devrait apparaître
+Couleurs
+Arrière-Plan
+Sélection
+Boutons
+Font
+Résumé de l'activité
+Images
+Trier des images
+Mettre en ordre une séquence d'images
+L'image que vous voulez introduire est trop grande. Diminuez-la maximum 150x150 pixels, s'il vous plaît.
+Faire le résumé de l'activité
+Phrases
+Relier des phrases
+Grouper par deux des phrases ou expressions selon un critère
+Vous devez spécifier autant la phrase de gauche que celle de droite, ou laisser toutes les deux vides
+Aspect des messages
+Ardora n'est pas encore traduit dans cette langue. Si vous voulez le traduire dans cette langue ou quelqu'une d'autre (très simple), contactez avec l'auteur par courrier contacto@webardora.net
+Image - Phrase
+Relier image - phrase
+Grouper par deux l'image avec une phrase ou un paragraphe
+L'image que vous voulez introduire est trop grande. Diminuez-la maximum 200x200 pixels, s'il vous plaît.
+Vous devez spécifier l'image ou la phrase ou laisser les deux vides.
+Colorier selon légende
+Colorier selon légende
+Colorier un graphique en fonction d'une légende
+Texte en légende
+Texte en graphique
+Couleur
+Choisissez la couleur dans les légendes antérieures et cliquez sur l'image
+Écrivez la légende dans l'image
+Choisissez la légende qui aparaisse dans l'image #Égal à celle de la légende principale # Une autre.
+Taille de font de l'image
+Supprimer la dernière couleur attribuée
+Il n'y a pas de couleur à choisir, cliquez deux fois sur le tableau de légendes pour ajouter/modifier une couleur/une légende
+D'abord vous devez charger un graphique en cliquant sur le bouton du point 1.
+Il y a des légendes intermédiaires sans définition de couleur. Vous pouvez définir du 1 à 10 légendes et couleurs, mais vous ne pouvez pas laisser des trous "sans couleur" entre les définies.
+Une couleur a été attribuée à cette zone. Vous devez le supprimer et attribuer la couleur de nouveau.
+Image - Image
+Relier image - Image
+Grouper par deux des images en relation
+Vous devez spécifier sur la gauche et sur la droite chacune des paires d'images qui forment l'activité
+Symétries, translations et tours
+Symétries, translations et tours simples
+En partant d'un dessin simple, on réalisera la symétrie, translation ou tour
+Type à réaliser: #Symétrie #Translation (Copie) #Tour.
+Vérifier la solution: #Manuel #Automatique.
+Montrer l'activité
+Publier l'activité
+Géoplan
+Géoplans
+Choisissez les différents paramètres pour l'activité
+Réaliser diverses activités sur géométrie
+Type de géoplan: #Carré #Triangulaire.
+Type d'activité: #Libre #Conditionnée.
+Géométrie
+Montrer:
+Nº de côtés
+Nº de sommets
+Perimètre
+Surface
+Colorier la surface
+Étiquette
+Unités
+Conditions:
+Nº de côtés =
+Périmètre =
+Surface =
+NOTE: Ardora ne fait aucune vérification préalable pour savoir s'il y a un polygone qui remplit les conditions introduites.
+Écrire le nombre de sommets
+Bouton Commencer
+Utilisez uniquement les nombres et le point pour les décimaux (2 maximum)
+Figure regulaire =
+__________#Triangle équilatéral #Triangle isocèle #Triangle scalène #Triangle acutangle #Triangle rectangle #Triangle obtusangle #Carré #Retangle #Rhomboïde #Losange#Trapèze.
+Quand le temps fini: #Arrêter #Recommencer.
+Ardora a repéré une fenêtre ouverte de IE et l'a fermée:  pour montrer les possibles modifications sur une activité vous devez fermer toutes les fenêtres du navigateur.
+Taille des mots cachés
+Taille de l'activité
+Destination
+Nouvelle fenêtre #Même fenêtre #Fenêtre principale.
+Nouvelle fenêtre #Même fenêtre #Fenêtre principale.
+Écrivez le message de félicitation qui apparaîtra quand l'activité soit correctement résolue. Vous pouvez laisser vide et/ou introduire L'URL dans l'adresse du fichier à montrer.
+Si le fichier html, pdf, etc que vous voulez montrer est dans un site d'internet différent à celui de l'activité, commencez  par "http://", sinon écrivez simplement la route d'accès au fichier.
+REMARQUE: Si vous écrivez la route d'un fichier, cette fonction ne se met pas en marche correctement dans "Montrer Activité" (bouton Oeil), publiez l'activité et exécutez le fichier htm pour vérifier.
+Écrivez le message qui apparaît au cas où vous limiteriez le temps de l'activité et le temps finirait avant de mettre la bonne réponse.
+Nouvelle fenêtre #Même fenêtre #Fenêtre principale.
+Nouvelle fenêtre #Même fenêtre #Fenêtre principale.
+Écrivez le message qui apparaîtra au cas où on dépasserait le numéro maximum d'essais manqués.
+Introduisez le message qui apparaîtra dans le cas d'une réponse incorrecte.
+Ignorer les majuscules/minuscules
+Faire l'activité compatible avec SCORM 1.2
+Si l'activité est résolue correctement: #On peut la refaire #On ne peut pas la refaire.
+Localisation dans le cours
+Note:
+Si l'activité est finie incorrectement: #On peut la refaire #On ne peut pas la refaire.
+Pour chaque bonne réponse
+Pour chaque réponse incorrecte
+Largeur surface de texte
+Créer un progiciel SCORM 1.2 pour être importé par des programmes de LMS
+Titre du cours
+1.- Cours
+2. - Containers
+3.- Activités
+4 - Créer un progiciel SCORM
+Identificateur (commencez par une lettre)
+Version
+Description
+Mot clé
+Vous devez specifier le nom et l'identificateur du cours
+Vous devez spécifier au moins un container
+Vous devez inclure le titre, l'identificateur et les fichiers dans lesquels l'activité est inclue
+Identificateur comme objectif
+#On mantient la note obtenue #On montre la note...
+#On mantient la note réussie #On met la note à zéro.
+Vous venez de créer une activité compatible avec SCORM 1.2, pour que l'activité puisse être incorporée à un LMS (Moodle, Dokeos) vous devez aller à Outils-SCORM et créer un progiciel.
+Activité
+Jeu de mémoire
+Découvrir des paires de mots/images
+Temps entre essais
+Permettre le clavier
+Album
+Méthode de solución: #Placer le texte #Placer l'image #Écrire le texte #Placer le texte et image en ordre.
+Vous devez spécifier un nom et un image pour la ligne:
+Grouper par deux mot-image, identifier des images, trier des images
+P&endu
+Jeu pendu
+Méthode de solution: #Traditionnel #En triant des lettres du mot.
+Progiciel d'activités Ardora
+Créer un système de navigation entre activités
+1.- Choisissez les activités
+2. Introduisez les données générales
+3.-Créez le progiciel
+Titre
+Le bas de page
+Menu principal
+Introduisez les données
+Menu latéral
+Créer 1ere page avec lien pour toutes les activités
+Nº
+Fichier
+Lien Act.
+Suivant/Dernier
+Av. Auteur.
+Souligner tous
+Vous devez spécifier minimum, une description et un fichier de l'activité
+Texte en première page index
+Titre des pages
+Lien
+Il y a un lien qui n'a pas URL ou un URL qui n'a pas de lien.
+En-tête
+Sous-titre
+Centrer la fenêtre de l'activité
+Taille de la fenêtre: #800x600 #1024x768.
+Premières lettres pour le nom des fichiers
+Sujet
+Créer un progiciel d'activités Ardora
+En-tête pour les liens à d'autres activités.
+Placer le bouton Fermer dans les activités
+Fonction du bouton Fermer #Fermer la fenêtre #Envoyer à.
+Étiquette du bouton Aide
+Étiquette du bouton Fermer
+Vous devez indiquer le nom du dossier où vous créerez le progiciel (Place)
+Ajuster automatiquement la largeur d'activités
+M.P.
+M.L.
+Sélectionner
+Mots d'un paragraphe
+Vous devez spécifier la caractéristique des mots du groupe
+Vous devez introduire un texte ou phrase.
+On ne trouve pas le texte, introduisez un mot qui fasse coïncider exactement avec celui du texte.
+Elle est déjà écrite, au moins deux fois, supprimez une entrée de ce mot.
+Mots. Le texte introduit a 100 mots ou plus, supprimez des mots et essayez de nouveau.
+Damier
+Découvrir un texte caché grâce aux définitions de mots
+Mettre en relief les lettres incorrectes
+Correct si... #Le paragraphe et les définitions sont corrects #Le paragraphe est correct.
+Cette activité n'utilise pas d'accents.
+Mots croisés de nombres
+Créer des mots croisés avec des opérations mathématiques
+Résultats
+Nombres
+Opérations
+#Cacher des nombres #Cacher des opérations #Choisir des cellules à cacher.
+Cellule cachée
+On ne peut pas introduire la division avec les quantités actuelles puisqu'on obtiendrait une division à zéro. Modifiez d'abord le diviseur et essayez de nouveau.
+Colonnes mouvantes
+Trier un texte en déplaçant des rangs ou des colonnes d'une grille
+#Déplacer des rangs #Déplacer des colonnes #Déplacer des rangs et des colonnes.
+Tableaux
+Compléter les cellules d'un tableau
+Contenu de la cellule #Texte #Souligner #Choisir.
+Première cellule
+Points d'une image
+Cliquez dans le grafique pour délimiter la zone.
+Cliquez deux fois pour "fermer" la zone.
+Mot dans le graphique
+Regrouper avec
+On ne peut pas supprimer la zone: Il y a des zones regroupées à celle-ci.
+Dessiner la zone qu'il faut trouver
+Mot qu'il faut corriger
+Éditer uniquement les mots soulignés
+Si vous marquez seulement l'édition des mots soulignés, vous ne pouvez pas choisir comme correct, pour le même mot, deux ou plus de mots. Corrigez la ligne:
+Mettre le bouton "suivant"
+Graphiques statistiques
+Lignes et barres
+Axe X
+Axe Y
+Objets
+Type de graphique: #Lignes #Barres.
+Type d'activité: #Fixe #Libre #Cacher des données #Ajuster le graphique #Ajuster des données et le graphique
+Commencer à:
+Nº de divisions:
+Mettre données dans le graphique
+Montrer le tableau de données
+Cette valeur ne correspond pas avec celles-ci déterminées par l'axe Y. Changez cette valeur et essayez de nouveau.
+Circulaires
+Les valeurs introduites créeront des proportions difficiles à regarder sur écran. Diminuez les valeurs ou augmentez-les.
+Montrer le tableau de %
+Valeur
+Textes avec des mots (En glisssant)
+Temps d'attente dans les messages
+1 -1
+Plusieurs - Plusieurs
+#Écrire des données #Joindre des cellules.
+Place initiale #Aléatoire #Fixe, égal au fixé au dessin.
+Compter de l'argent
+Choisissez la monnaie et le nombre d'unités avec laquelle on comptera
+#Monnaies #Billets.
+Montrer / Écrire: #Quantité complète (ex. 4,05 €) #Unités et décimaux (ex. 4€ et 5 cent.) #Les deux #Aucune (Seulement pour "libre").
+Valider comme bonne réponse: #Correcte #Celle qui utilise le moindre nombre de monnaies et/ou billets.
+Méthode de solution: #En choisisssant les monnaies ou billets #En écrivant la quantité #Libre.
+Montrer les monnaies et/ou billets: #Triées par ordre décroissant #D'une façon aléatoire.
+Pixels
+Introduisez le nombre de l'alinéa et son identificateur (on doit commencer par une lettre)
+Choisissez l'alinéa (container):
+Introduisez le nom de l'activité, son identificateur (on doit commencer par une lettre) et spécifiez les fichiers qui y font partie.
+Nouvelle page multimédia
+Galerie d'images
+1. -Contenu
+2. - Page web
+Taille des miniatures
+Taille des images
+Cliquez sur le bouton droit et "collez" le code.
+Miniature
+Largeur
+Surface visible:
+Image
+Texte et images
+Taille de la page
+Reproducteur de...
+Image
+Fichier Vidéo
+Panorama interactif
+En cliquant  Ouvrir... #URL #Image #Activités Ardora #Muttimédia Ardora #Progiciel d'activités Ardora #html, pdf, jpg....#Serveur Ardora.
+Position
+Largeur
+Hauteur
+Position initiale
+Vitesse à retardement
+L'étiquette doit avoir une valeur (obligatoire)
+Climogramme
+Espace entre mois
+Espace entre valeurs
+Éléments mouvants
+Onglets / Accordéon
+Type: #Onglets horizontaux@Onglets verticaux#Accordéon
+Sites Web
+Menu dépliant
+Fenêtres
+Destin: #Nouvelle fenêtre #Pop-up#Même fenêtre#Fenêtre de dialogue.
+Structure de la page
+Aspect
+Auto-ajuster
+Espace central
+Menu graphique
+#Linéaire #Dépliant
+Personnalisé
+Modèle
+Copier données du sujet
+Contenu initial
+Sons
+Nouvelle page sur serveur!
+Gestion comptes utilisateurs
+Annotations collectives
+Album collectif
+Chat
+Votes
+Traitement de textes
+Nom et prénom
+Coordonnateur (-trice)
+Nom d'utilisateur (-trice)
+Mot de passe
+Il existe déjà un compte utilisateur à ce nom, s'il vous plaît, entrez un autre nom.
+Professorat
+Cours
+Groupe
+Utilisateur/mot de passe incorrect
+Commentaire
+Date
+Route au réseau local
+Nom du dossier contenant !
+Marge
+Classé par: #Mot principal #Date #Auteur.
+(au)maximun
+Tableau(noir)
+Ligne de temps
+Système de suggestions
+Privé
+Gestionnaire de fichiers
+Partagée
+Répertoire
+Dossier
+renseignement
+R. A.
+Auto-évaluation
+Exécutions
+État
+Initiation
+Fin
+Affiche
+Unique
+Espace de travail
+Effacer
+Dessiner
+Mettre à jour
+Livre
+Page
+Vide
+Avant
+Remplacer
+Nom mauvais
+Déclaration
+Augmenter
+Forme
+Zone de texte
+Modifiable
+Usuario
+Total
+Bibliothèque
+Remarques
+Salle de classe
+To view this content you need to specify in the Utilities menu-Setting a path to a server. See the program's help.
+The elements in this image lack an identifier. Please,  open it with Inkscape, save it with another name and try again.
+Action name
+Enter action
+Action
+Élément
+Effacer
+Mouvement
+Des lettres
+Jouez juste
+Ajouter
+Labyrinthe
+Vous voulez vraiment ajouter toutes les activités contenues dans
+Calculatrice
+Pentomino
+Activer
+Move
+Accédez à la première activité non résolue.
+Enregistrement
+Enregistreur
+Gravure
+Téléchargement de fichiers
+Configuration
+Morts et blessés

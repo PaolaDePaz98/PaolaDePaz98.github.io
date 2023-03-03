@@ -1,0 +1,100 @@
+/*
+Created by Ardora
+http://www.webardora.net
+*/
+body{
+	--cfondo:#FFFFFF;
+	--cseleccion:#d4d40d;
+	--cboton:#ff8000;
+	--cfonte:#292929;
+	*FFA
+	margin:10px;background: radial-gradient(circle farthest-side, var(--cfondo), var(--cfonte));
+}
+#contenedor{background-color:var(--cfondo);border-color:var(--cseleccion);border-width:3px;border-style:double;text-align:justify;}
+#tiraMenu{height:40px;padding:0px;margin:0px;font-size:16px;}
+#menuPrincipal{height:20px;font-size:14px;font-weight:bold;padding-top:5px;}
+#menuPrincipal a{float:right;padding-right:20px;padding-left:20px;color:var(--cfonte);text-transform:uppercase;text-decoration:none;border-left-width:1px;border-left-style:dashed;border-left-color:var(--cseleccion);}
+#menuPrincipal a:hover{color:var(--cseleccion);border-bottom-width:1px;border-bottom-style:dashed;border-bottom-color:var(--cseleccion);}
+#menuPrincipal h2{float:left;margin-top:0px;margin-left:5px;color:var(--cfondo);font-size:14px;}
+#cabecera{border-bottom-style:double;border-bottom-color:var(--cseleccion);padding:0px;margin:0px;height:auto;background: linear-gradient(to right, #FFF 70%, var(--cseleccion) 120%);}
+
+#cabecera h1{padding:0px;font-size:28px;margin-left:5px;margin-top:0px;color:var(--cseleccion);margin-bottom:0px;text-shadow: 1px 1px white, -1px -1px #919191;
+	*SHT
+}
+#cabecera h2{margin-left:5px;margin-top:0px;margin-bottom:0px;}
+#cabecera h3{float:right;padding-right: 10px;font-style: normal;font-size: 16px;}
+#menu{float:right;width:15%;}
+#menu h1{
+	margin-bottom:0px;
+	font-size:16px;
+	font-weight:bold;
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	border-bottom-color:var(--cseleccion);
+	*SHT
+}
+#menu a{
+	font-size:14px;
+	margin-left:5px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:var(--cfonte);
+	text-decoration:none;
+	font-weight:normal;
+}
+#menu a:hover{
+	color:var(--cseleccion);
+	font-weight:bold;
+}
+#areaContido{
+	float:left;
+	width:83%;
+}
+#areaContido h1{
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:var(--cfonte);
+	font-size:16px;
+	font-weight:bold;
+}
+#areaContido h2{
+	margin:0px;
+	padding:0px;
+	color:var(--cfonte);
+	font-size:1px;
+	font-weight:bold;
+	visibility:hidden;
+}
+#areaContido h3{
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:var(--cfonte);
+	font-size:12px;
+	font-weight:normal;
+}
+#areaContido a{
+	font-size:12px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	color:var(--cboton);
+	text-decoration:none;
+}
+#areaContido a:hover{
+	color:var(--cseleccion);
+}
+.lista{display:list-item; list-style:none;}
+#pie{
+	clear:both;
+	border-top-style:dashed;
+	border-top-width:1px;
+	border-top-color:var(--cseleccion);background: linear-gradient(to right, #FFF 70%, var(--cseleccion) 120%);
+	
+}
+#pie p{font-size:12px;margin:0px;padding:4px;}
+object{overflow:hidden;}
+#areaMedia{top:140px;}
+.oversvg:hover{fill:var(--cseleccion);}

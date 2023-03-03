@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--ArdoraPaquete-->
+<!--Created by Ardora - www.webardora.net-->
+<head><meta charset="utf-8"/>
+*A01*<title>A01</title>
+*A02*<link href="A02" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="contenedor">
+  <div id="header">
+		<div id="headerTitulos">
+*A06*			<h1>A06</h1>
+*A05*			<h2>A05 </h2>
+		</div>
+	    <div id="botons">
+		
+		
+*A17*		<a href="A171"><svg xmlns="http://www.w3.org/2000/svg" alt="A172" width="15" height="30" viewBox="0 0 6.618 13.229"><path class="butsvg" d="M6.618 7.435v5.794L0 6.611 6.618 0v5.787H4.97V3.992l-2.632 2.62L4.97 9.25V7.435z" fill="#f8f5d7" fill-rule="evenodd"/></svg></a>
+
+*A03*		<a href="A031"><svg xmlns="http://www.w3.org/2000/svg" alt="A032" width="30" height="30" viewBox="0 0 10.583 10.583"><path class="butsvg" d="M0 0v10.583h10.583V0zm1.056 1.056h8.472v8.472H1.056zm4.029.584c-.298 0-.607.032-.928.096a8.14 8.14 0 00-1.062.297v1.51c.327-.212.641-.37.942-.476.301-.109.582-.164.841-.164.276 0 .49.064.644.192.154.125.231.3.231.524a.866.866 0 01-.13.442 1.999 1.999 0 01-.399.471l-.307.279c-.34.314-.563.574-.668.779a1.48 1.48 0 00-.159.696v.236h1.735v-.217c0-.144.033-.275.1-.393.068-.122.21-.282.428-.481l.308-.274c.301-.285.514-.551.64-.798.124-.25.187-.532.187-.846 0-.611-.206-1.076-.616-1.393-.41-.32-1.006-.48-1.787-.48zM4.09 7.233v1.71h1.735v-1.71z" fill="#f8f5d7"/></svg></a>
+		
+*A04*		<a href="A041"><svg xmlns="http://www.w3.org/2000/svg" alt="A042" width="30" height="30" viewBox="0 0 10.583 10.583"><path class="butsvg" d="M1.056 9.528h8.472V1.056H1.056zm0 0zM0 10.583V0h10.583v10.583zm0 0zm5.292-6.045l2.615-2.62.753.754-2.62 2.62 2.62 2.615-.753.753-2.615-2.62-2.62 2.62-.753-.753 2.62-2.615-2.62-2.62.753-.753z" fill="#f8f5d7" fill-rule="evenodd"/></svg></a>
+		
+*A19*		<a href="A191"><svg xmlns="http://www.w3.org/2000/svg" alt="A192" width="15" height="30" viewBox="0 0 6.618 13.229"><path class="butsvg" d="M0 7.435v5.794l6.618-6.618L0 0v5.787h1.648V3.992l2.632 2.62L1.648 9.25V7.435z" fill="#f8f5d7" fill-rule="evenodd"/></svg></a>
+	    </div>
+  	</div>
+
+	<div id="menuPrincipal">
+		<ul>
+*A07*			<li><a href="A071" target="A072" accesskey="A073">A074</a></li>
+  	  	</ul>
+	</div>
+	<div id="content">
+		<div id="areaContido">
+*A13*			<h1> A13 </h1>
+*A15*			<h2> A15 </h2>
+*A16*			<h3>A16</h3>
+		</div>
+
+*A08*		<div id="menu">
+*A09*			<h1> A09</h1>
+*A10*			<a href="A101" target="A102">A103</a>
+*B09*			
+*A11*			<h1>A11</h1><table width="140" border="0"><tr>
+*A12*					<td><li class="first"><a href="A121" title="A122">A123</a></li></td>
+*B11*			</tr></table>
+		
+		</div>
+
+*B08*
+	</div>
+	<div id="footer">
+*A18*    <div class="left">A182</div> <!--"A181"-->
+	</div>
+</div>
+</body>
+</html>

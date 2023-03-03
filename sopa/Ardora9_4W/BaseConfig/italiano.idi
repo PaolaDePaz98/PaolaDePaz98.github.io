@@ -1,0 +1,681 @@
+&File
+&Esci
+&Lingua
+Chiudi Ardora
+Caricamento dell'applicazione...
+&Nuova attività
+Etichette su immagine
+Crucipuzzle
+Costruzione di parole
+Attribuzione di etichette a parti di un'immagine
+Questa attività permette di:
+Creazione
+Scegli l'immagine
+Doppio clic sull'immagine per selezionare punti
+Scrivi un titolo per l'attività
+Controlla il risultato giusto
+Salva l'attività
+Pubblica l'attività
+Un'immagine è già stata caricata. Vuoi sceglierne un'altra? In questo caso i punti creati saranno cancellati.
+Parola
+L'immagine che stai cercando di caricare è troppo grande. Prova a ridurre le dimensioni (massimo 600 x 460 pixel).
+Inserisci la parola:
+Annulla
+Accetta
+Cancella la parola
+Per cancellare una parola, scegli una cella con dati
+Vuoi veramente cancellare la parola?
+Lo studente deve mettere in relazione i punti selezionati nell'immagine con le etichette corrispondenti
+Aiuto
+Proprietà
+Colore dei punti:
+Zona della risposta:
+Studenti:
+Pubblica:
+Limite di tempo:
+Mostra tentativi e successi
+Valuta
+Metodo di risposta: #Selezione della parola#Scrittura della parola (senza frecce)#Scrittura della parola (con frecce).
+Destinatari: #Tutti gli studenti#Solo studenti selezionati
+Permetti la stampa
+&Utilità
+&Configura Ardora
+Configurazione iniziale dell'applicazione
+Lingua:#Galiziano#Spagnolo#Catalano#Basco#Portoghese#Inglese#Francese#Aragonese#Brasiliano#Russo#Rumeno#Asturiano#Italiano
+Chiudi
+Salva
+Errore durante il salvataggio del file
+Attività non salvata
+Quando termina il tempo: #Stop#Ricomincia#Mostra le risposte
+Finisce dopo ...
+Errori
+TENTATIVI:
+SUCCESSI:
+PUNTI:
+TEMPO:
+Bianco#Blu#Giallo#Nero#Rosa#Marrone#Viola#Grigio#Verde
+Bianco#Blu#Giallo#Nero#Rosa#Marrone#Viola#Grigio#Verde
+Salva come ...
+L'attività non è stata salvata; vuoi uscire da Ardora senza salvarla?
+Devi scegliere un'immagine nel box di creazione
+Autore:
+Tipo di pubblicazione: #Pubblicazione semplice#Pubblicazione su server
+Caratteristiche della finestra nel navigatore
+Titolo della finestra
+Inserisci una barra di navigazione
+Linea divisoria dal titolo
+Vedi
+A&pri
+L'attività non è stata salvata; vuoi aprire un'altra attività senza salvare quella corrente?
+Errore durante l'apertura dell'attività
+Pu&zzle
+Apri un'attività salvata
+Puzzle
+Crea un puzzle
+Lo studente deve ricostruire l'immagine usando i pezzi forniti
+Informazioni sul puzzle
+Seleziona il numero di righe e colonne:
+Righe:
+Colonne:
+&Aiuto
+&Leggi l'aiuto
+&E-mail all'autore
+Informazioni
+Chiudi l'attività
+Lo studente deve trovare nel Crucipuzzle le parole che sono state inserite.
+Doppio clic sulla tabella per inserire le parole
+Crucipuzzle
+Crea un crucipuzzle
+Parola
+Definizione
+La parola deve essere di almeno tre lettere
+La parola non può contenere spazi vuoti
+Scrivi un titolo per l'attività
+Metodo di risposta: #Con una lista di parole da cercare#Con le definizioni delle parole da cercare#Senza alcun aiuto.
+Unità di misura
+&Euro
+&Orologio
+Cruciverba
+Piramidi
+&Giochi di parole
+Attività con le immagini
+Calcolo
+P A R O L E:
+D E F I N I Z I O N I:
+Conta le monete
+Euro - Conta le monete
+Rappresenta con monete una somma inferiore ai 5 euro
+Lo studente deve scegliere le necessarie monete per formare una somma oppure scrivere una somma
+Scegli il modo per generare le somme:
+#Specifico#Casuale.
+Metodo di risposta: #Selezione di monete e banconote#Scrittura delle somme.
+Corretto
+MONETE
+Riprova
+Inserisci una somma più grande di 0
+Conta le banconote
+Euro - Conta le banconote
+Rappresenta con banconote somme più piccole di 880 euro
+Lo studente deve scegliere le banconote necessarie per formare la somma oppure scrivere la somma
+La somma deve essere un multiplo di 5 e uguale o più piccola di 880
+BANCONOTE
+Orologi
+Riscrivi l'ora in un orologio analogico o digitale
+Lo studente deve impostare l'ora corretta in un orologio analogico o digitale
+Inserisci l'ora e la sua espressione
+Metodo di risposta: #Analogico#Digitale#Analogico e digitale.
+Salva e pubblica l'attività
+Associazioni
+Collega coppie di parole
+Doppio clic sulla tabella per aggiungere dati
+Sinistra
+Destra
+Inserisci le due parole
+Classificazioni
+&Parole
+Classifica parole
+Riunisci le parole in 2 o 3 gruppi
+Inserisci i criteri del gruppo
+Doppio clic sulla tabella per aggiungere dati
+Devi inserire almeno i criteri dei primi due gruppi
+Parole
+Associa parole
+Cerca le coppie di parole
+Devi scrivere coppie complete (a sinistra e a destra)
+Metodo di risposta: #Collegamento con frecce#Gioco del memory.
+&Completamenti
+Parole e sillabe
+Completa le parole
+Scegli la giusta sillaba per una parola
+Se avviene un errore...#Non mostrare messaggi#Mostra il messaggio.
+Corretto
+Opzioni
+Inserisci un trattino "-" nella parola per sostituire la sillaba
+Devi inserire un trattino nello spazio occupato dalla sillaba
+Devi inserire la sillaba corretta e una o più opzioni possibili
+Accetta
+Immagini
+Classifica immagini
+Riunisci immagini in 2 o 3 gruppi
+Devi inserire almeno i criteri delle prime due classificazioni
+Immagini
+Dati dell'attività
+Seleziona le opzioni di tempo e aspetto
+Scegli il metodo di risposta per l'attività
+Salva l'attività
+Salva come ...
+Pubblica l'attività
+Guarda l'attività
+L'immagine che stai inserendo è troppo grande; riducila a dimensioni inferiori a  600x150 pixel
+Criterio di classificazione
+È necessario selezionare il criterio e/o l'immagine della parola
+Diagrammi ad albero
+Diagrammi ad albero
+Crea diagrammi ad albero fino a 4 livelli di profondità
+Numero d'ordine
+Concetto
+Numero d'ordine
+Concetto
+Inserisci i concetti del diagramma
+Usa solo numeri separati da punti, ad esempio 1 per la prima sezione e 1.1 per il primo sottoparagrafo
+Devi inserire il numero d'ordine e/o il concetto
+Esiste già un concetto con lo stesso numero d'ordine da te inserito
+Non esiste un numero d'ordine precedente da cui questo concetto può dipendere
+Grandezza del font
+Mostra la risposta direttamente
+Tangram
+Tangram
+Crea immagini differenti con i pezzi del tangram
+Doppio clic sulla griglia (sistema i pezzi)
+Con linee nel modello
+Con risposte guida
+Metodo di risposta: #Figure libere#Riproduci un modello.
+Attività con suoni
+Distingui i suoni
+Autodettato
+Distingui i suoni
+Identifica le lettere che rappresentano un suono
+Associa suoni-immagini
+Strumenti
+Registratore di suoni
+Cruciverba
+Risolvi il cruciverba
+Righe:
+Colonne:
+Inserisci il numero di righe e colonne
+Completa il cruciverba >>>
+Doppio clic sulla tabella per le definizioni
+Direzione di scrittura
+Orizzontali
+Verticali
+Colora
+Colora
+Colora immagine
+Metodo di risposta: #Colorazione libera#Colori della legenda.
+Inserisci la legenda (testi e colori)
+Puzzle numerico
+Puzzle numerico con operazioni
+Scegli operazioni matematiche con gli interi
+Operazione
+Inserisci le operazioni
+Operazione
+Serpente dei numeri
+Serpente dei numeri
+Trova i calcoli
+Inizia
+Scegli le opzioni e il numero di "vite"
+Numero di "vite"
+"Vite"
+Ardora ha creato il file:
+Esegui quest'ultimo per aver accesso all'attività
+Ricorda che entrambi i file devono stare nella stessa cartella
+Doppio clic sulla tabella per aggiungere dati
+Vuoi veramente rimuovere il file?
+L'immagine supera i 100X100 pixels; ridurre e riprovare.
+Devi inserire la parola corretta e almeno ancora un'opzione
+Parola
+File audio
+File "Immagine"
+Parola
+File "Immagine"
+Parola
+File "Immagine"
+Parola
+File "Immagine"
+Prima opzione
+Seconda opzione
+Terza opzione
+Vuoi veramente cancellare?
+Scegli il metodo
+Metodo di risposta:#Testo#Immagine#Testo +Immagine
+Almeno una delle parole non ha un'immagine associata, impossibile cambiare metodo
+Devi selezione un file audio
+Autodettato
+Trascrivi ciò che ascolti
+Scegli il file audio e scrivi il testo corretto
+Testo corretto
+Ordinamenti
+Frasi
+Ordina
+Ordina le parole in una frase o in una serie
+Doppio clic per inserire i dati
+Frasi / Serie
+Suggerimento / Domanda
+Metodo di risposta: #Senza aiuti#Evidenziando le parole sbagliate.
+Inserisci le frasi/serie da riordinare (domanda e suggerimento sono opzionali)
+L'immagine che stai tentando di caricare potrebbe essere troppo grande; ridurla a una dimensione inferiore a 175x175 pixel
+Testi con parole (selezione)
+Completa
+Completa un testo con parole selezionate da una lista
+Testo
+Metodo di risposta: #Indicando alternative per ogni parola#Tutte le parole sono alternative.
+Alternative
+Includi la parola da nascondere tra caratteri "$" (dollaro)
+I caratteri "$" devono essere in numero pari. Esempio: Il femore è un $osso$ (osso è nascosto)
+Vuoi veramente eliminare l'intero testo e le modifiche apportate?
+Messaggi
+Sito web
+Congratulazioni
+Limite di tempo
+Limite di tentativi
+Bonus
+3 - Sito web
+1 - Attività
+2 - Opzioni di esecuzione
+Scegli l'aspetto del sito web contenitore
+Font
+Dimensioni
+Grassetto
+Corsivo
+Posizione dell'attività: #Sinistra#Centro#Destra.
+Allineamento del titolo: #Sinistra#Centro#Destra#Giustificato.
+Linea di separazione attività/autore
+Testi bucati (scrittura)
+Completa un testo scrivendo le parole
+Altre soluzioni valide
+Aspetto dell'aiuto
+Dimensioni del font
+Aspetto dell'attività
+Dimensioni del font
+Test
+Test
+Crea un test
+Domanda
+Corretto
+Sbagliato
+Messaggio d'errore
+Ordine delle risposte: #In ordine d'inserimento#Casuale.
+Domanda
+Risposta
+Messaggio d'errore
+Messaggi
+Salva
+Salva come
+Paragrafi
+Riordina paragrafi
+Riordina paragrafi/frasi in modo che abbiano un senso logico
+Scrivi paragrafi/frasi nell'ordine corretto
+Colori
+Sfondo
+Selezione
+Pulsanti
+Font
+Sommario dell'attività
+Immagini
+Ordina immagini
+Riordina una sequenza di immagini
+L'immagine che stai tentando di caricare potrebbe essere troppo grande; ridurla a una dimensione di 150x150 pixel
+Inserisci un sommario dell'attività
+Frasi
+Associa frasi
+Collega frasi o espressioni secondo un criterio
+Devi specificare una frase a sinistra e a destra oppure lasciare vuoti entrambi i campi
+Aspetto del messaggio
+Ardora non è ancora tradotto in questa lingua. Se sei interessato alla sua traduzione (è assai facile da fare), contatta l'autore.
+Immagine - Frase
+Associa immagine - frase
+Associa un'immagine con una frase o un paragrafo
+Imagine pe care incerci sa o incarci este prea mare, te rog reduo la o dimensiune mai mica de 20X200 pixeli
+Devi specificare un'immagine e una frase o lasciare entrambi i campi vuoti
+Colora secondo la legenda
+Colora secondo la legenda
+Colora l'immagine secondo le indicazioni della legenda
+Testo nella legenda
+Testo nell'immagine
+Colore
+Scegli i colori nella legenda e clicca sull'immagine
+Inserisci la legenda nell'immagine
+Scegli la legenda nell'immagine: #La stessa della legenda principale#Un'altra.
+Dimensioni font nell'immagine
+Cancella l'ultimo colore
+Non ci sono colori da selezionare; doppio clic sulla tabella della legenda per aggiungere/modificare i colori
+Anzitutto, devi caricare un'immagine cliccando sul pulsante del punto 1
+Ci sono legende intermedie senza definizioni di colori. Puoi definire da 1 a 10 legende e colori, ma senza lasciare spazi.
+Un colore è già stato assegnato a questa zona, devi cancellarlo e assegnare il colore di nuovo
+Immagine - Immagine
+Associa Immagine - Immagine
+Collega immagini che hanno una relazione
+Devi specificare ogni coppia di immagini sia sulla sinistra sia sulla destra
+Simmetrie, traslazioni e rotazioni
+Simmetrie, traslazioni e semplici rotazioni
+A partire da una semplice immagine, si possono ottenere una simmetria, una traslazione o una rotazione
+Opzioni: #Simmetria#Traslazione#Rotazione.
+Verifica della risposta: #Manuale#Automatica.
+Guarda l'attività
+Pubblica l'attività
+Geometria piana
+Geometria piana
+Scegli i diversi parametri dell'attività
+Diverse attività di geometria
+Settori della geometria piana: #Quadrati#Triangoli.
+Tipo di attività: #Libera#Condizionata.
+Geometria
+Mostra:
+Numero di lati
+Numero di vertici
+Perimetro
+Area
+Colore della superficie
+Etichetta
+Unità
+Condizioni:
+Numero dei lati =
+Perimetro =
+Area =
+NOTA: Ardora non permette verifiche dell'attività riguardo al fatto che già esista un poligono che rispetti le condizioni inserite
+Inserisci il numero dei vertici
+Pulsante Inizia
+Usa solo numeri e punti per i decimali (2 al massimo)
+Figura regolare =
+-----------------#Triangoli equilateri#Triangoli isosceli#Triangoli scaleni#Triangoli acutangoli#Triangoli retti#Triangoli ottusangoli#Quadrato#Rettangolo#Romboide#Rombo#Trapezio.
+Quando termina il tempo: #Stop#Riprova.
+Ardora ha rilevato che IE presenta ancora una finestra aperta. Per vedere i cambiamenti apportati in un'attività occorre chiudere tutte le altre finestre del browser
+Grandezza del crucipuzzle
+Grandezza dell'attività
+Destinazione
+Nuova finestra#Stessa finestra#Finestra superiore.
+Nuova finestra#Stessa finestra#Finestra superiore.
+Scrivi il messaggio di congratulazioni che apparirà quando l'attività verrà risolta completamente. Puoi anche lasciare vuoto il campo URL e/o inserire l'indirizzo di un file da visualizzare.
+Se il file html, PDF ... che vuoi mostrare si trova in un sito diverso da quello che contiene l'attività, inizia con "http: / /", altrimenti scrivi semplicemente il percorso di accesso al file.
+ATTENZIONE: eventuali collegamenti esterni non funzioneranno nell'anteprima dell'attività; pubblicare l'attività per provarli.
+Scrivi il messaggio che apparirà in caso di superamento del limite di tempo dell'attività (o al raggiungimento di questo limite prima della soluzione completa dell'attività).
+Nuova finestra#Stessa finestra#Finestra superiore.
+Nuova finestra#Stessa finestra#Finestra superiore.
+Scrivi il messaggio che apparirà in caso di superamento del numero massimo di errori.
+Scrivi il messaggio che apparirà in caso di risposta sbagliata.
+Ignora lettere minuscole/maiuscole
+Crea un'attività compatibile con SCORM 1.2
+Se l'attività è stata svolta correttamente: #Può essere ripetuta#Non può essere ripetuta.
+Localizzazione all'interno del corso
+Punteggio
+Se l'attività è stata svolta in modo non corretto: #Può essere ripetuta#Non può essere ripetuta.
+Per ogni risposta corretta
+Per ogni risposta sbagliata
+Larghezza area di testo
+Crea un pacchetto SCORM 1.2 importabile in programmi LMS
+Titolo del corso
+1 - Corso
+2 - Contenitori
+3 - Attività
+4 - Crea un pacchetto SCORM
+Identificatore (inizia con una lettera)
+Versione
+Descrizione
+Parola chiave
+Devi specificare il nome e l'identificatore del corso
+Devi specificare almeno un contenitore
+Devi specificare titolo, identificatore e files dove l'attività è inclusa
+Identificatore come obiettivo.
+# Il punteggio è salvato # Il tuo punteggio è ...
+# Il punteggio è salvato # Il punteggio è posto uguale a zero.
+Per creare un'attività compatibile con SCORM 1.2 da incorporare in un LMS (Moodle, Dokeos), devi andare a SCORM. e creare il "pacchetto"
+Attività
+Gioco del memory
+Cerca coppie di parole/immagini
+Ritardo nei tentativi
+Permetti la tastiera
+Album
+Metodo di risposta:# Sistema i testi #Sistema le immagini #Scrivi i testi #Sistema in ordine i testi e le immagini
+Devi specificare un nome e un'immagine per la riga:
+Collega parola- immagine, identifica immagini, ordina immagini
+Hangman
+Gioco dell'Impiccato
+Metodo di risposta: #Tradizionale#Ordinamento delle lettere in una parola.
+Pacchetto di attività di Ardora
+Crea un sistema di navigazione tra le attività
+1 - Scegli le attività
+2 - Inserisci i dati generali
+3 - Crea il pacchetto
+Titolo
+Pié di pagina
+Menù principale
+Inserisci i dati
+Menù laterale
+Crea la prima pagina con i collegamenti a tutte le attività
+N.
+File
+Link. Att.
+Nuo/Pre
+Au. Ava.
+Seleziona tutto
+Devi specificare almeno una descrizione e un file per l'attività
+Testo nella prima pagina indice
+Titolo delle pagine
+Link
+C'è un link senza URL o un URL senza link
+Titolo
+Sottotitolo
+Centra la finestra dell'attività
+Dimensioni della finestra: #800x600#1024x768
+Nome del file
+Argomento
+Crea un pacchetto di attività di Ardora
+Titolo per i collegamenti ad altre attività
+Imposta il pulsante Chiudi nelle attività
+Funzioni del pulsante Chiudi: #Chiudi la finestra#Manda a.
+Etichetta del pulsante Aiuto
+Etichetta del pulsante Chiudi
+Devi specificare la cartella di creazione del pacchetto. (Destinazione)
+Aggiusta automaticamente la larghezza delle attività
+M.P.
+M.L.
+Seleziona
+Parole in un paragrafo
+Devi specificare la caratteristica del gruppo di parole
+Devi inserire un testo o una frase
+Non si trova nel testo; inserisci un elemento presente esattamente nel testo.
+Parola già scritta almeno due volte; cancella un'occorrenza di questa parola.
+Il testo supera le 100 parole; elimina alcune parole e riprova.
+Tabellone di parole
+Trova il testo nascosto fornendo le definizioni delle parole
+Evidenzia le lettere sbagliate
+Giusto se: #Il paragrafo e le definizioni sono corretti#Il paragrafo è completo.
+La tilde non è permessa in questa attività
+Cruciverba di numeri
+Creazione di cruciverba con operazioni matematiche
+Risultati
+Numeri
+Operazioni
+#Nascondi i numeri#Nascondi le operazioni#Seleziona le celle da nascondere.
+Cella nascosta
+La divisione non è possibile con queste quantità, non è accettabile una divisione per zero; cambia il divisore e riprova.
+Colonne spostabili
+Metti un testo nell'ordine corretto muovendo righe o colonne in una griglia
+#Muovi le righe#Muovi le colonne#Muovi righe e colonne.
+Tabelle
+Completa le celle della tabella
+Contenuto della cella: #Testo#Spunta#Seleziona.
+Prima cella
+Punti nell'immagine
+Clicca sull'immagine per delimitare la zona
+Doppio clic per "chiudere" la zona
+Parola nell'immagine
+Raccogli con
+Questa zona non può essere cancellata. Ci sono zone raccolte con essa.
+Disegna la zona in caso di risposta corretta
+Parola da correggere
+Modifica solo le parole selezionate
+Se selezioni "Modifica solo le parole selezionate" non puoi inserire due o più parole come giuste. Correggi la frase:
+Inserisci il pulsante "Nuovo"
+Grafici statistici
+Grafici a linee e a barre
+Asse delle X
+Asse delle Y
+Elementi
+Tipo di grafico: #Grafico a linee#Grafico a barre.
+Tipo di attività: #Senza interazioni#Interazione aperta#Con inserimento dei dati#Con grafico da sistemare#Con dati e grafico da sistemare.
+Inizia in:
+Num. divisioni
+Inserisci i dati nel grafico
+Vedi la tabella dei dati
+Il valore supera i valori dell'asse delle Y. Cambialo e riprova.
+Grafici a torta
+I valori inseriti sono poco visibili a schermo; cambia opportunamente i valori
+Inserisci %
+Valore
+Testi bucati (drag and drop)
+Tempo di attesa nei messaggi
+1 - 1
+Parecchi - Parecchi
+#Scrivi i dati#Unisci le celle.
+Impostazione iniziale: #Casuale#In ordine di inserimento.
+Conta le monete
+Scegli la valuta e il numero di unità con cui lavorare
+#Monete.#Banconote.
+Mostra / Scrivi: #Somme piene (es. 4,05 €)#Unità e decimali (es. 4 € e 5 centesimi)#Entrambe le forme#Nessuna delle due forme.
+Accetta come risposte corrette: #Qualsiasi risposta valida#Le risposte che usano il minor numero possibile di monete e/o banconote.
+Metodo di risposta: #Scelta di banconote o monete#Scrittura delle quantità#Aperto.
+Mostra monete e/o banconote: #Dai valori più grandi a quelli più piccoli#In modo casuale.
+pixels
+Inserisci il nome del box e il suo identificatore (deve iniziare con una lettera)
+Scegli il box (contenitore)
+Inserisci il nome dell'attività e il suo identificatore (deve iniziare con una lettera); specifica i file che ne fanno parte
+Nuova pagina web multimedia
+Galleria di immagini
+1 - Contenuti
+2 - Pagina web
+Grandezza della miniatura
+Grandezza immagine
+Tasto destro e "incolla" il codice
+Miniatura
+Largh.
+Area visibile
+Immagine
+Testo e immagini
+Dimensioni della pagina
+Lettore
+Immagine
+File video
+Vista panoramica interattiva
+Quando si clicca, si apre ...#URL#Immagine#Attività di Ardora#Multimedia di Ardora#Pacchetto di attività di Ardora#html, pdf, jpg ...#Server Ardora.
+Posizione
+Largh.
+Alt.
+Posizione di partenza
+Ritardo
+L'etichetta deve contenere un valore (è obbligatorio)
+Climogramma
+Spazio dei mesi
+Spazio dei valori
+Elementi mobili
+Pagine gestite da tabs
+Tipo: #Tabs orizzontali#Tabs verticali#Tabs a fisarmonica.
+Siti web
+Menù a scomparsa
+Finestre
+Destinazione: #Nuova finestra#Pop-up#Finestra di dialogo.
+Struttura della pagina
+Aspetto
+Autoadattamento
+Spazio centrale
+Menù grafico
+#Lineare#A scomparsa.
+Personalizzato
+Modello
+Copia dati da un tema
+Contenuti iniziali
+Suoni
+Nuova pagina all'interno di un server
+Credenziali utente
+Note collettive
+Album collettivo
+Chat
+Voti
+Elaboratore di testi
+Nome completo
+Coordinatore
+Nome utente
+Password
+Un utente con questo nome già esiste; inserisci un altro nome.
+Personale insegnante
+Corso
+Gruppo
+Nome utente errato o password non corretta
+Commento
+Data
+Percorso nel server locale
+Nome cartella contenitore
+Margine
+Ordina per: #Parola chiave#Data#Autore.
+Massimo
+Board
+Linea del tempo
+Sistema di commenti
+Privato
+File manager
+Condiviso
+Directory
+Cartella
+Informazioni
+Re. Aut.
+Autovalutazione
+Esecuzioni
+Stato
+Inizio
+Fine
+Poster
+Singolo
+Spazio di lavoro
+Cancella
+Disegna
+Aggiorna
+Libro
+Pagina
+Pagina bianca
+Copertina
+Sostituisci
+Nome errato
+Titolo
+Incremento
+Modulo
+Area del testo
+Editabile
+Utente
+Labirinto
+Biblioteca
+Note
+Classe
+Per vedere questi contenuti devi specificare in Utilità > Configura Ardora il "percorso nel server locale". Vedi il tutorial specifico.
+Gli elementi in questa immagine non hanno identificatori. Aprila con il programma Inkscape, salvala con un altro nome e riprova.
+Nome dell'azione
+Inserisci l'azione
+Azione
+Elemento
+Cancellare- escludere
+Movimento
+Lettere
+Gioca
+Aggiungere
+Labirinto
+Vuoi davvero aggiungere tutte le attività contenute in
+Calcolatrice
+Pentamino
+Attivare
+Spostare
+Vai alla prima attività irrisolta.
+Registrazione
+Registratore
+Incisione
+Caricamento file
+Configurazione
+Wordmaster
