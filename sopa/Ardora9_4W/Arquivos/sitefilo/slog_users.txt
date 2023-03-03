@@ -1,5 +1,0 @@
-testuser, testpass
-mario.valdez, qwerty
-admin, admin
-md5user, 65ed8a5eec59a1a6f75ec845294aead8
-mario@mariovaldez.org, poiuyt
